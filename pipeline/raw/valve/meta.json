@@ -1,0 +1,30 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Valve logo.svg",
+  "size": [
+   960,
+   268
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Valve old logo.svg",
+  "size": [
+   960,
+   273
+  ]
+ },
+ "site0.png": {
+  "src": "https://cdn.akamai.steamstatic.com/valvesoftware/images/favicon.ico",
+  "size": [
+   16,
+   16
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   16,
+   16
+  ]
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "wd_icon0.png": {
+  "src": "commons:Tesla T symbol.svg",
+  "size": [
+   960,
+   956
+  ]
+ },
+ "wd_logo0.png": {
+  "src": "commons:Tesla Motors.svg",
+  "size": [
+   960,
+   1242
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Tesla, Inc. - Logo (shield version 1, black).svg",
+  "size": [
+   960,
+   1146
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   152,
+   152
+  ]
+ }
+}

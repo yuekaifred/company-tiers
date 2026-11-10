@@ -1,0 +1,37 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Cloudflare Logo.svg",
+  "size": [
+   960,
+   318
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Cloudflare textlogo.svg",
+  "size": [
+   960,
+   78
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.cloudflare.com/favicon.ico",
+  "size": [
+   99,
+   96
+  ]
+ },
+ "site1.png": {
+  "src": "https://www.cloudflare.com/favicon.ico",
+  "size": [
+   99,
+   96
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   99,
+   96
+  ]
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:HubSpot Logo.svg",
+  "size": [
+   960,
+   281
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.hubspot.com/hubfs/HubSpot_Logos/HubSpot-Inversed-Favicon.png",
+  "size": [
+   288,
+   288
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

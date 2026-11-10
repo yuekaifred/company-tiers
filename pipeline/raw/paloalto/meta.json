@@ -1,0 +1,30 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:PaloAltoNetworks 2020 Logo.svg",
+  "size": [
+   960,
+   176
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.paloaltonetworks.com/etc/clientlibs/pan/img/favicons2020/favicon-194x194.png",
+  "size": [
+   194,
+   194
+  ]
+ },
+ "site1.png": {
+  "src": "https://www.paloaltonetworks.com/etc/clientlibs/pan/img/favicons2020/android-chrome-192x192.png",
+  "size": [
+   192,
+   192
+  ]
+ },
+ "site2.png": {
+  "src": "https://www.paloaltonetworks.com/etc/clientlibs/pan/img/favicons2020/apple-touch-icon-180x180.png",
+  "size": [
+   180,
+   180
+  ]
+ }
+}

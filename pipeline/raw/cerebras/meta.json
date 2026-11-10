@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Cerebras logo.svg",
+  "size": [
+   960,
+   423
+  ]
+ },
+ "site0.png": {
+  "src": "https://cdn.sanity.io/images/e4qjo92p/production/e7a55ae5ab7e2c4fdfd4e66a51f628d1f2f44207-967x967.png?w=512&h=512&fit=max&auto=format",
+  "size": [
+   512,
+   512
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Neuralink logo.svg",
+  "size": [
+   960,
+   314
+  ]
+ },
+ "site0.png": {
+  "src": "https://neuralink.com/favicon.png",
+  "size": [
+   96,
+   96
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   96,
+   96
+  ]
+ }
+}

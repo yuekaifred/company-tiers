@@ -1,0 +1,30 @@
+{
+ "wd_icon0.png": {
+  "src": "commons:Adobe Corporate Horizontal Red HEX.svg",
+  "size": [
+   960,
+   852
+  ]
+ },
+ "wd_logo0.png": {
+  "src": "commons:Adobe Corporate wordmark.svg",
+  "size": [
+   960,
+   243
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Adobe Logo 1982.gif",
+  "size": [
+   318,
+   99
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   180,
+   180
+  ]
+ }
+}

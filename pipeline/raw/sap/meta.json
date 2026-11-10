@@ -1,0 +1,30 @@
+{
+ "wd_icon0.png": {
+  "src": "commons:SAP 2011 logo.svg",
+  "size": [
+   960,
+   475
+  ]
+ },
+ "wd_logo0.png": {
+  "src": "commons:SAP 2011 logo.svg",
+  "size": [
+   960,
+   475
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:SAP-Logo.svg",
+  "size": [
+   960,
+   476
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Reddit wordmark.svg",
+  "size": [
+   960,
+   279
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Reddit logo.svg",
+  "size": [
+   960,
+   305
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.redditstatic.com/shreddit/assets/favicon/64x64.png",
+  "size": [
+   64,
+   64
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   192,
+   192
+  ]
+ }
+}

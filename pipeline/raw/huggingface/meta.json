@@ -1,0 +1,16 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Hf-logo-with-title.svg",
+  "size": [
+   960,
+   256
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

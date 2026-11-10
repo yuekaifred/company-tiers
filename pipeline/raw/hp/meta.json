@@ -1,0 +1,30 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:HP logo 2025.svg",
+  "size": [
+   960,
+   959
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:HP logo 2012.svg",
+  "size": [
+   960,
+   960
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.hp.com/favicon.ico",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   32,
+   32
+  ]
+ }
+}

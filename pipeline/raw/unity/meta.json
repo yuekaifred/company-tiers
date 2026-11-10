@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Unity 2021.svg",
+  "size": [
+   960,
+   354
+  ]
+ },
+ "site0.png": {
+  "src": "https://unity.com/favicon.ico?favicon.3nuapaha9dmud.ico?dpl=0a1f43de4083b930421110cd37eb1fa797e601ab",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

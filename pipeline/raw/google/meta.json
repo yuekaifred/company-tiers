@@ -1,0 +1,37 @@
+{
+ "wd_icon0.png": {
+  "src": "commons:Google Favicon 2025.svg",
+  "size": [
+   960,
+   981
+  ]
+ },
+ "wd_icon1.png": {
+  "src": "commons:Google \"G\" logo.svg",
+  "size": [
+   960,
+   960
+  ]
+ },
+ "wd_logo0.png": {
+  "src": "commons:Google 2026 logo.svg",
+  "size": [
+   960,
+   291
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Google 2015 logo.svg",
+  "size": [
+   960,
+   325
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   144,
+   144
+  ]
+ }
+}

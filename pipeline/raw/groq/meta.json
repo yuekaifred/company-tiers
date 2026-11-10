@@ -1,0 +1,37 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Groq logo.svg",
+  "size": [
+   960,
+   351
+  ]
+ },
+ "site0.png": {
+  "src": "https://groq.com/apple-touch-icon.png",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site1.png": {
+  "src": "https://groq.com/favicon.ico",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "site2.png": {
+  "src": "https://groq.com/favicon.ico",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   180,
+   180
+  ]
+ }
+}

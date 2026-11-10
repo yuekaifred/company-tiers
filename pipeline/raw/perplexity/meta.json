@@ -1,0 +1,37 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Perplexity AI logo.svg",
+  "size": [
+   960,
+   231
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.perplexity.ai/favicon.png",
+  "size": [
+   192,
+   192
+  ]
+ },
+ "site1.png": {
+  "src": "https://www.perplexity.ai/apple-touch-icon.png",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site2.png": {
+  "src": "https://www.perplexity.ai/favicon.ico",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

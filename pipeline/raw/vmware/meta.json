@@ -1,0 +1,44 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Vmware-by-broadcom.svg",
+  "size": [
+   960,
+   287
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:VMware logo.svg",
+  "size": [
+   960,
+   219
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.vmware.com/vm-favicon-96x96.png",
+  "size": [
+   96,
+   96
+  ]
+ },
+ "site1.png": {
+  "src": "https://www.vmware.com/vm-favicon-48x48.png",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "site2.png": {
+  "src": "https://www.vmware.com/vm-favicon.png",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   96,
+   96
+  ]
+ }
+}

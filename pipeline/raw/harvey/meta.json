@@ -1,0 +1,16 @@
+{
+ "site0.png": {
+  "src": "https://www.harvey.ai/icons/brand-favicon.png",
+  "size": [
+   1024,
+   1024
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Expedia Group logo.svg",
+  "size": [
+   960,
+   763
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Expedia Group Logo.png",
+  "size": [
+   960,
+   765
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   48,
+   48
+  ]
+ }
+}

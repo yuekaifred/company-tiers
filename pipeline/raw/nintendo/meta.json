@@ -1,0 +1,44 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Nintendo.svg",
+  "size": [
+   960,
+   320
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Nintendo.png",
+  "size": [
+   411,
+   129
+  ]
+ },
+ "site0.png": {
+  "src": "https://assets.nintendo.com/image/upload/ncom/icons/fav-icons/apple-touch-icon.png",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site1.png": {
+  "src": "https://assets.nintendo.com/image/upload/ncom/icons/fav-icons/favicon.ico",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "site2.png": {
+  "src": "https://assets.nintendo.com/image/upload/ncom/icons/fav-icons/favicon-32x32.png",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   180,
+   180
+  ]
+ }
+}

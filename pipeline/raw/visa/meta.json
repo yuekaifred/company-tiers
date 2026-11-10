@@ -1,0 +1,30 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Visa Inc. logo (2021\u2013present).svg",
+  "size": [
+   960,
+   312
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Visa Inc. logo (1992\u20131999).svg",
+  "size": [
+   960,
+   614
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.visa.ca/content/dam/VCOM/Brand/favicon.ico",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   48,
+   48
+  ]
+ }
+}

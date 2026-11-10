@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Brex logo black.svg",
+  "size": [
+   960,
+   327
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.brex.com/favicon.ico",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   48,
+   48
+  ]
+ }
+}

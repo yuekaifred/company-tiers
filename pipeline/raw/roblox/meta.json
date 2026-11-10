@@ -1,0 +1,23 @@
+{
+ "site0.png": {
+  "src": "https://images.rbxcdn.com/905bd722ee0a6ceda3caacde54c0b081.png",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site1.png": {
+  "src": "https://images.rbxcdn.com/e854eb7b2951ac03edba9a2681032bba.ico",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   180,
+   180
+  ]
+ }
+}

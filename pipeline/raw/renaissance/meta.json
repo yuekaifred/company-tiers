@@ -1,0 +1,37 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Renaissance Technologies.png",
+  "size": [
+   960,
+   124
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.rentec.com/img/favicon/apple-touch-icon.png",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site1.png": {
+  "src": "https://www.rentec.com/img/favicon/favicon.ico",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "site2.png": {
+  "src": "https://www.rentec.com/img/favicon/favicon-32x32.png",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   180,
+   180
+  ]
+ }
+}

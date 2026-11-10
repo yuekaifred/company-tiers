@@ -1,0 +1,30 @@
+{
+ "site0.png": {
+  "src": "https://fiverings.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
+  "size": [
+   120,
+   120
+  ]
+ },
+ "site1.png": {
+  "src": "https://fiverings.com/wp-content/uploads/fbrfg/favicon.ico",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "site2.png": {
+  "src": "https://fiverings.com/wp-content/uploads/fbrfg/favicon-32x32.png",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   120,
+   120
+  ]
+ }
+}

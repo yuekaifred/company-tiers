@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Salesforce.com logo.svg",
+  "size": [
+   960,
+   672
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.salesforce.com/c2/public/app/favicon.ico",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   32,
+   32
+  ]
+ }
+}

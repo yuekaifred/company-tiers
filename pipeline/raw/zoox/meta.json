@@ -1,0 +1,37 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Zoox logo.svg",
+  "size": [
+   960,
+   175
+  ]
+ },
+ "site0.png": {
+  "src": "https://zoox.com/common/favicons/apple-touch-icon.png",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site1.png": {
+  "src": "https://zoox.com/common/favicons/favicon-96x96.png",
+  "size": [
+   96,
+   96
+  ]
+ },
+ "site2.png": {
+  "src": "https://zoox.com/common/favicons/favicon-48x48.png",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   180,
+   180
+  ]
+ }
+}

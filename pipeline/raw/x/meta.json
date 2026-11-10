@@ -1,0 +1,30 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:X logo 2023.svg",
+  "size": [
+   960,
+   868
+  ]
+ },
+ "site0.png": {
+  "src": "https://x.com/apple-touch-icon.png",
+  "size": [
+   1024,
+   1024
+  ]
+ },
+ "site1.png": {
+  "src": "https://x.com/favicon.ico",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "site0.png": {
+  "src": "https://cdn.prod.website-files.com/6127a84dfe068e153ef20572/67189bfac8da27b3a70ddd93_256%20x%20256%20Glean%20Favicon.png",
+  "size": [
+   256,
+   256
+  ]
+ },
+ "site1.png": {
+  "src": "https://cdn.prod.website-files.com/6127a84dfe068e153ef20572/67189bf127c626679a308b22_32x32%20Glean%20Favicon.png",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

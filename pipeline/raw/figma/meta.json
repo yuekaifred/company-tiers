@@ -1,0 +1,37 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Figma-logo.svg",
+  "size": [
+   960,
+   1440
+  ]
+ },
+ "site0.png": {
+  "src": "https://static.figma.com/app/icon/2/icon-256.png",
+  "size": [
+   256,
+   256
+  ]
+ },
+ "site1.png": {
+  "src": "https://static.figma.com/app/icon/2/icon-192.png",
+  "size": [
+   192,
+   192
+  ]
+ },
+ "site2.png": {
+  "src": "https://static.figma.com/app/icon/2/touch-180.png",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

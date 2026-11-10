@@ -1,0 +1,30 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Arrowstreet Capital.svg",
+  "size": [
+   960,
+   190
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.arrowstreetcapital.com/wp-content/uploads/2025/04/cropped-Favicon_1-192x192.png",
+  "size": [
+   192,
+   192
+  ]
+ },
+ "site1.png": {
+  "src": "https://www.arrowstreetcapital.com/wp-content/uploads/2025/04/cropped-Favicon_1-180x180.png",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site2.png": {
+  "src": "https://www.arrowstreetcapital.com/wp-content/uploads/2025/04/cropped-Favicon_1-32x32.png",
+  "size": [
+   32,
+   32
+  ]
+ }
+}

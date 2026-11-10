@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Dropbox logo 2017.svg",
+  "size": [
+   960,
+   190
+  ]
+ },
+ "site0.png": {
+  "src": "https://cfl.dropboxstatic.com/static/metaserver/static/images/favicon.ico",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   32,
+   32
+  ]
+ }
+}

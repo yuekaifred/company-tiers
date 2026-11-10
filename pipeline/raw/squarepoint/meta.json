@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Squarepoint Capital.svg",
+  "size": [
+   960,
+   229
+  ]
+ },
+ "site0.png": {
+  "src": "https://squarepoint-capital.com/icon.ico?069257188e023032",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   32,
+   32
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Wise Logo 512x124.svg",
+  "size": [
+   960,
+   402
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Wise logo light-on-dark.png",
+  "size": [
+   500,
+   500
+  ]
+ },
+ "site0.png": {
+  "src": "https://wise.com/public-resources/assets/icons/wise-personal/apple_touch_icon.png",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site1.png": {
+  "src": "https://wise.com/public-resources/assets/icons/wise-personal/favicon_32x32.png",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "site2.png": {
+  "src": "https://wise.com/public-resources/assets/icons/wise-personal/favicon.png",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

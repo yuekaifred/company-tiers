@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Gusto, Inc. logo.svg",
+  "size": [
+   960,
+   640
+  ]
+ },
+ "site0.png": {
+  "src": "https://gusto.com/favicon.ico?03dbb666c1f9120e",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   32,
+   32
+  ]
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:BlackRock wordmark.svg",
+  "size": [
+   960,
+   139
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.blackrock.com/amer-retail-c-assets/favicon.ico",
+  "size": [
+   16,
+   16
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   16,
+   16
+  ]
+ }
+}

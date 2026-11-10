@@ -1,0 +1,37 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:SpaceXAI logo.svg",
+  "size": [
+   960,
+   118
+  ]
+ },
+ "site0.png": {
+  "src": "https://x.ai/icon.png?icon.2jebtfdg6783w.png?dpl=1f0473552015f8ca18c7e5ee30ac55617d26e8dd",
+  "size": [
+   512,
+   512
+  ]
+ },
+ "site1.png": {
+  "src": "https://x.ai/apple-icon.png?apple-icon.167itqrsbgzm4.png?dpl=1f0473552015f8ca18c7e5ee30ac55617d26e8dd",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site2.png": {
+  "src": "https://x.ai/favicon.ico?favicon.2023htx52lx-a.ico?dpl=1f0473552015f8ca18c7e5ee30ac55617d26e8dd",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

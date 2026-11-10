@@ -1,0 +1,15 @@
+{
+ "alibaba": {"pick": "icon.png"},
+ "bridgewater": {"pick": "icon.png"},
+ "cloudflare": {"pick": "icon.png"},
+ "dropbox": {"pick": "icon.png"},
+ "fastly": {"pick": "icon.png"},
+ "gusto": {"pick": "icon.png"},
+ "intuit": {"pick": "icon.png"},
+ "nvidia": {"pick": "icon.png"},
+ "qualcomm": {"pick": "icon.png"},
+ "roblox": {"pick": "icon.png"},
+ "sea": {"pick": "icon.png"},
+ "spacex": {"pick": "icon.png"},
+ "tiktok": {"pick": "icon.png"}
+}

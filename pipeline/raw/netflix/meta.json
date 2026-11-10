@@ -1,0 +1,51 @@
+{
+ "wd_icon0.png": {
+  "src": "commons:Netflix icon.svg",
+  "size": [
+   960,
+   961
+  ]
+ },
+ "wd_icon1.png": {
+  "src": "commons:Netflix 2016 N logo.svg",
+  "size": [
+   960,
+   1742
+  ]
+ },
+ "wd_logo0.png": {
+  "src": "commons:Netflix 2015 logo.svg",
+  "size": [
+   960,
+   260
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Netflix logo.svg",
+  "size": [
+   960,
+   446
+  ]
+ },
+ "site0.png": {
+  "src": "https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2016.png",
+  "size": [
+   64,
+   64
+  ]
+ },
+ "site1.png": {
+  "src": "https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2023.ico",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   64,
+   64
+  ]
+ }
+}

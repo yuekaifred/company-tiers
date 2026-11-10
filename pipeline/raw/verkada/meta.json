@@ -1,0 +1,30 @@
+{
+ "site0.png": {
+  "src": "https://www.verkada.com/apple-icon.png?apple-icon.0ndfu63g65zkm.png",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site1.png": {
+  "src": "https://www.verkada.com/favicon.ico?favicon.41191hqdfz6sh.ico",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "site2.png": {
+  "src": "https://www.verkada.com/icon2.png?icon2.2jj819470lphi.png",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   180,
+   180
+  ]
+ }
+}

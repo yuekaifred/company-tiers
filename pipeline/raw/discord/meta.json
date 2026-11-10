@@ -1,0 +1,37 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Discord colour textlogo (2021).svg",
+  "size": [
+   960,
+   154
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Discord Color Text Logo (2015-2021).svg",
+  "size": [
+   960,
+   180
+  ]
+ },
+ "site0.png": {
+  "src": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/6266bc493fb42d4e27bb8393_847541504914fd33810e70a0ea73177e.ico",
+  "size": [
+   256,
+   256
+  ]
+ },
+ "site1.png": {
+  "src": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/62fddf0fde45a8baedcc7ee5_847541504914fd33810e70a0ea73177e%20(2)-1.png",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

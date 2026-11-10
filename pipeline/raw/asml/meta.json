@@ -1,0 +1,30 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:ASML Holding N.V. logo.svg",
+  "size": [
+   960,
+   271
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:ASML Logo.svg",
+  "size": [
+   960,
+   269
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.asml.com/favicon.ico",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   48,
+   48
+  ]
+ }
+}

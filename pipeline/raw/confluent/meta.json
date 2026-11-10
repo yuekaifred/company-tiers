@@ -1,0 +1,23 @@
+{
+ "site0.png": {
+  "src": "https://www.confluent.io/icons/apple-touch-icon.png",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site1.png": {
+  "src": "https://www.confluent.io/favicon.ico",
+  "size": [
+   1073,
+   1073
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

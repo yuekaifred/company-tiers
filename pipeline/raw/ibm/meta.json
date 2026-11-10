@@ -1,0 +1,44 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:IBM logo.svg",
+  "size": [
+   960,
+   359
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:IBM Logo 1956 1972.svg",
+  "size": [
+   960,
+   382
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.ibm.com/content/dam/adobe-cms/default-images/icon-512x512.png",
+  "size": [
+   512,
+   512
+  ]
+ },
+ "site1.png": {
+  "src": "https://www.ibm.com/content/dam/adobe-cms/default-images/icon-192x192.png",
+  "size": [
+   192,
+   192
+  ]
+ },
+ "site2.png": {
+  "src": "https://www.ibm.com/content/dam/adobe-cms/default-images/apple-touch-icon-180x180.png",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

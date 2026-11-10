@@ -1,0 +1,30 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Cognition AI.svg",
+  "size": [
+   960,
+   208
+  ]
+ },
+ "site0.png": {
+  "src": "https://cognition.com/apple-icon.png?apple-icon.3ldv32hvdcixr.png",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site1.png": {
+  "src": "https://cognition.com/favicon.ico?favicon.026vo_cxlsvxr.ico",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   180,
+   180
+  ]
+ }
+}

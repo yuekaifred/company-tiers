@@ -1,0 +1,30 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Notion-logo.svg",
+  "size": [
+   960,
+   960
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.notion.com/front-static/logo-ios.png",
+  "size": [
+   512,
+   512
+  ]
+ },
+ "site1.png": {
+  "src": "https://www.notion.com/front-static/favicon.ico",
+  "size": [
+   64,
+   64
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

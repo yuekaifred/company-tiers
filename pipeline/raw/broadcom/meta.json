@@ -1,0 +1,44 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Broadcom logo (2016-present).svg",
+  "size": [
+   960,
+   132
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Avago Technologies logo.svg",
+  "size": [
+   960,
+   308
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.broadcom.com/favicon-96x96.png",
+  "size": [
+   96,
+   96
+  ]
+ },
+ "site1.png": {
+  "src": "https://www.broadcom.com/favicon-48x48.png",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "site2.png": {
+  "src": "https://www.broadcom.com/favicon.png",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   96,
+   96
+  ]
+ }
+}

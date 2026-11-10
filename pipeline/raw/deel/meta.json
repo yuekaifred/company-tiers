@@ -1,0 +1,23 @@
+{
+ "site0.png": {
+  "src": "https://www.deel.com/apple-icon.png?d2b410d8d6714d15",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site1.png": {
+  "src": "https://www.deel.com/icon.png?e9556fbc67fbe781",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   180,
+   180
+  ]
+ }
+}

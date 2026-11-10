@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Apple logo black.svg",
+  "size": [
+   960,
+   1180
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Apple logo white.svg",
+  "size": [
+   960,
+   1140
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   64,
+   64
+  ]
+ }
+}

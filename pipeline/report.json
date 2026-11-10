@@ -1,0 +1,2559 @@
+{
+ "google": {
+  "pick": "wd_icon0.png",
+  "src": "commons:Google Favicon 2025.svg",
+  "size": [
+   960,
+   981
+  ],
+  "coverage": 0.323,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "apple": {
+  "pick": "wd_logo0.png",
+  "src": "commons:Apple logo black.svg",
+  "size": [
+   960,
+   1180
+  ],
+  "coverage": 0.328,
+  "light": 0.0,
+  "bg": "light",
+  "issues": [
+   "single flat color"
+  ]
+ },
+ "microsoft": {
+  "pick": "wd_icon0.png",
+  "src": "commons:Microsoft icon.svg",
+  "size": [
+   960,
+   960
+  ],
+  "coverage": 0.574,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "amazon": {
+  "pick": "gfav.png",
+  "src": "google-s2",
+  "size": [
+   48,
+   48
+  ],
+  "coverage": 0.609,
+  "light": 0.033,
+  "bg": "light",
+  "issues": [
+   "lowres 48x48"
+  ]
+ },
+ "meta": {
+  "pick": "wd_icon0.png",
+  "src": "commons:Meta Platforms Inc. logo (cropped).svg",
+  "size": [
+   960,
+   638
+  ],
+  "coverage": 0.192,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "netflix": {
+  "pick": "wd_icon0.png",
+  "src": "commons:Netflix icon.svg",
+  "size": [
+   960,
+   961
+  ],
+  "coverage": 0.993,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "nvidia": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   512,
+   512
+  ],
+  "coverage": 0.245,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "tesla": {
+  "pick": "wd_icon0.png",
+  "src": "commons:Tesla T symbol.svg",
+  "size": [
+   960,
+   956
+  ],
+  "coverage": 0.16,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "oracle": {
+  "pick": "wd_logo0.png",
+  "src": "commons:Oracle logo.svg",
+  "size": [
+   960,
+   125
+  ],
+  "coverage": 0.035,
+  "light": 0.0,
+  "bg": "light",
+  "issues": [
+   "sparse 0.035"
+  ]
+ },
+ "ibm": {
+  "pick": "wd_logo0.png",
+  "src": "commons:IBM logo.svg",
+  "size": [
+   960,
+   359
+  ],
+  "coverage": 0.087,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "salesforce": {
+  "pick": "site0.png",
+  "src": "https://www.salesforce.com/c2/public/app/favicon.ico",
+  "size": [
+   32,
+   32
+  ],
+  "coverage": 0.309,
+  "light": 0.0,
+  "bg": "light",
+  "issues": [
+   "lowres 32x32"
+  ]
+ },
+ "adobe": {
+  "pick": "wd_icon0.png",
+  "src": "commons:Adobe Corporate Horizontal Red HEX.svg",
+  "size": [
+   960,
+   852
+  ],
+  "coverage": 0.265,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "intel": {
+  "pick": "wd_logo0.png",
+  "src": "commons:Intel logo 2023.svg",
+  "size": [
+   960,
+   373
+  ],
+  "coverage": 0.105,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "amd": {
+  "pick": "wd_logo0.png",
+  "src": "commons:AMD Logo.svg",
+  "size": [
+   960,
+   229
+  ],
+  "coverage": 0.073,
+  "light": 0.0,
+  "bg": "light",
+  "issues": [
+   "single flat color"
+  ]
+ },
+ "qualcomm": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   512,
+   512
+  ],
+  "coverage": 0.218,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "broadcom": {
+  "pick": "gfav.png",
+  "src": "google-s2",
+  "size": [
+   96,
+   96
+  ],
+  "coverage": 0.48,
+  "light": 0.149,
+  "bg": "light",
+  "issues": []
+ },
+ "arm": {
+  "pick": "site0.png",
+  "src": "https://www.arm.com/shared/common/img/favicon/android-chrome-256x256.png?v=1.0.9749.18501",
+  "size": [
+   256,
+   256
+  ],
+  "coverage": 0.5,
+  "light": 0.132,
+  "bg": "light",
+  "issues": []
+ },
+ "tsmc": {
+  "pick": "wd_logo0.png",
+  "src": "commons:TSMC wordmark.svg",
+  "size": [
+   960,
+   242
+  ],
+  "coverage": 0.067,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "samsung": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   192,
+   192
+  ],
+  "coverage": 1.0,
+  "light": 0.105,
+  "bg": "light",
+  "issues": []
+ },
+ "cisco": {
+  "pick": "wd_logo0.png",
+  "src": "commons:Cisco logo blue 2016.svg",
+  "size": [
+   960,
+   507
+  ],
+  "coverage": 0.08,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "sap": {
+  "pick": "wd_icon0.png",
+  "src": "commons:SAP 2011 logo.svg",
+  "size": [
+   960,
+   475
+  ],
+  "coverage": 0.237,
+  "light": 0.375,
+  "bg": "light",
+  "issues": []
+ },
+ "servicenow": {
+  "pick": "gfav.png",
+  "src": "google-s2",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.996,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "workday": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   32,
+   32
+  ],
+  "coverage": 0.215,
+  "light": 0.0,
+  "bg": "light",
+  "issues": [
+   "lowres 32x32"
+  ]
+ },
+ "vmware": {
+  "pick": "gfav.png",
+  "src": "google-s2",
+  "size": [
+   96,
+   96
+  ],
+  "coverage": 0.995,
+  "light": 0.101,
+  "bg": "light",
+  "issues": []
+ },
+ "uber": {
+  "pick": "gfav.png",
+  "src": "google-s2",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.605,
+  "light": 0.069,
+  "bg": "light",
+  "issues": []
+ },
+ "lyft": {
+  "pick": "gfav.png",
+  "src": "google-s2",
+  "size": [
+   150,
+   150
+  ],
+  "coverage": 0.224,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "airbnb": {
+  "pick": "gfav.png",
+  "src": "google-s2",
+  "size": [
+   240,
+   240
+  ],
+  "coverage": 0.601,
+  "light": 0.123,
+  "bg": "light",
+  "issues": []
+ },
+ "doordash": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   512,
+   512
+  ],
+  "coverage": 0.207,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "instacart": {
+  "pick": "site0.png",
+  "src": "https://d2guulkeunn7d8.cloudfront.net/assets/Icon-60@3x-73f80604373da67ef3fadbc54f4548b1.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.152,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "spotify": {
+  "pick": "wd_icon0.png",
+  "src": "commons:2024 Spotify logo without text.svg",
+  "size": [
+   960,
+   961
+  ],
+  "coverage": 0.406,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "snap": {
+  "pick": "site0.png",
+  "src": "https://images.ctfassets.net/dwtpq5hdcqjg/5S0EwGbv1lNk3uVF25ocBe/bfddb3bbc878432eabc4a2a8b6282e8e/Snap_Inc_Favicon.png?fm=png",
+  "size": [
+   737,
+   737
+  ],
+  "coverage": 0.163,
+  "light": 0.045,
+  "bg": "light",
+  "issues": []
+ },
+ "pinterest": {
+  "pick": "wd_icon0.png",
+  "src": "commons:Pinterest.svg",
+  "size": [
+   960,
+   960
+  ],
+  "coverage": 0.369,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "reddit": {
+  "pick": "gfav.png",
+  "src": "google-s2",
+  "size": [
+   192,
+   192
+  ],
+  "coverage": 0.516,
+  "light": 0.262,
+  "bg": "light",
+  "issues": []
+ },
+ "x": {
+  "pick": "site0.png",
+  "src": "https://x.com/apple-touch-icon.png",
+  "size": [
+   1024,
+   1024
+  ],
+  "coverage": 1.0,
+  "light": 0.116,
+  "bg": "light",
+  "issues": []
+ },
+ "linkedin": {
+  "pick": "wd_icon0.png",
+  "src": "commons:LinkedIn icon.svg",
+  "size": [
+   960,
+   960
+  ],
+  "coverage": 0.628,
+  "light": 0.246,
+  "bg": "light",
+  "issues": []
+ },
+ "tiktok": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   512,
+   512
+  ],
+  "coverage": 0.227,
+  "light": 0.0,
+  "bg": "light",
+  "issues": [
+   "single flat color"
+  ]
+ },
+ "bytedance": {
+  "pick": "site0.png",
+  "src": "https://lf3-static.bytednsdoc.com/obj/eden-cn/shjpmmv_ljuhklafi/ljhwZthlaukjlkulzlp/images/Pn04bTfD5oKbB3x1NFLcQ3Bxn1b-20261029135132-20261029150506.png",
+  "size": [
+   300,
+   300
+  ],
+  "coverage": 0.258,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "discord": {
+  "pick": "site0.png",
+  "src": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/6266bc493fb42d4e27bb8393_847541504914fd33810e70a0ea73177e.ico",
+  "size": [
+   256,
+   256
+  ],
+  "coverage": 0.499,
+  "light": 0.237,
+  "bg": "light",
+  "issues": []
+ },
+ "duolingo": {
+  "pick": "site0.png",
+  "src": "https://d35aaqx5ub95lt.cloudfront.net/images/duolingo-touch-icon2.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.607,
+  "light": 0.16,
+  "bg": "light",
+  "issues": []
+ },
+ "roblox": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.607,
+  "light": 0.302,
+  "bg": "light",
+  "issues": []
+ },
+ "epic": {
+  "pick": "wd_logo0.png",
+  "src": "commons:Epic Games logo.svg",
+  "size": [
+   960,
+   1114
+  ],
+  "coverage": 0.5,
+  "light": 0.222,
+  "bg": "light",
+  "issues": []
+ },
+ "valve": {
+  "pick": "wd_logo0.png",
+  "src": "commons:Valve logo.svg",
+  "size": [
+   960,
+   268
+  ],
+  "coverage": 0.151,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "riot": {
+  "pick": "site0.png",
+  "src": "https://www.riotgames.com/assets/img/meta/87021767499a895b42bbe1e6a9edaf27/apple-touch-icon-precomposed-180x180.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.635,
+  "light": 0.155,
+  "bg": "light",
+  "issues": []
+ },
+ "blizzard": {
+  "pick": "site0.png",
+  "src": "https://d3ukkjpihy42k4.cloudfront.net/images/favicon.b50a2b7ffcd4631c52d2b61e5d6fec8757e5b81a.ico",
+  "size": [
+   256,
+   256
+  ],
+  "coverage": 0.622,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "nintendo": {
+  "pick": "site0.png",
+  "src": "https://assets.nintendo.com/image/upload/ncom/icons/fav-icons/apple-touch-icon.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 1.0,
+  "light": 0.041,
+  "bg": "light",
+  "issues": []
+ },
+ "sony": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   48,
+   48
+  ],
+  "coverage": 1.0,
+  "light": 0.231,
+  "bg": "light",
+  "issues": [
+   "lowres 48x48"
+  ]
+ },
+ "unity": {
+  "pick": "gfav.png",
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ],
+  "coverage": 0.288,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "ea": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   512,
+   512
+  ],
+  "coverage": 0.145,
+  "light": 0.0,
+  "bg": "light",
+  "issues": [
+   "single flat color"
+  ]
+ },
+ "stripe": {
+  "pick": "site0.png",
+  "src": "https://images.stripeassets.com/fzn2n1nzq965/4vVgZi0ZMoEzOhkcv7EVwK/8cce6fdcf2733b2ec8e99548908847ed/favicon.png?w=180&h=180",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.627,
+  "light": 0.222,
+  "bg": "light",
+  "issues": []
+ },
+ "square": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   512,
+   512
+  ],
+  "coverage": 0.411,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "paypal": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   960,
+   1157
+  ],
+  "coverage": 0.349,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "robinhood": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   152,
+   152
+  ],
+  "coverage": 0.626,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "coinbase": {
+  "pick": "site0.png",
+  "src": "https://www.coinbase.com/assets/sw-cache/a_CcvONSrV.png",
+  "size": [
+   228,
+   228
+  ],
+  "coverage": 0.499,
+  "light": 0.52,
+  "bg": "light",
+  "issues": []
+ },
+ "plaid": {
+  "pick": "site0.png",
+  "src": "https://plaid.com/assets/img/favicons/apple-touch-icon.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.499,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "brex": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   256,
+   256
+  ],
+  "coverage": 1.0,
+  "light": 0.176,
+  "bg": "light",
+  "issues": []
+ },
+ "ramp": {
+  "pick": "site0.png",
+  "src": "https://ramp.com/apple-touch-icon.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.495,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "chime": {
+  "pick": "gfav.png",
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ],
+  "coverage": 1.0,
+  "light": 0.157,
+  "bg": "light",
+  "issues": []
+ },
+ "affirm": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   64,
+   64
+  ],
+  "coverage": 0.499,
+  "light": 0.707,
+  "bg": "light",
+  "issues": []
+ },
+ "revolut": {
+  "pick": "gfav.png",
+  "src": "google-s2",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.305,
+  "light": 0.021,
+  "bg": "light",
+  "issues": []
+ },
+ "wise": {
+  "pick": "site0.png",
+  "src": "https://wise.com/public-resources/assets/icons/wise-personal/apple_touch_icon.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.622,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "klarna": {
+  "pick": "site0.png",
+  "src": "https://owp.klarna.com/public/klarna/appIcon.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 1.0,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "mercury": {
+  "pick": "site0.png",
+  "src": "https://mercury.com/apple-icon.png?apple-icon.24duaeqfro1-o.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.503,
+  "light": 0.563,
+  "bg": "light",
+  "issues": []
+ },
+ "visa": {
+  "pick": "wd_logo0.png",
+  "src": "commons:Visa Inc. logo (2021\u2013present).svg",
+  "size": [
+   960,
+   312
+  ],
+  "coverage": 0.107,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "mastercard": {
+  "pick": "wd_icon0.png",
+  "src": "commons:Mastercard 2019 logo.svg",
+  "size": [
+   960,
+   594
+  ],
+  "coverage": 0.33,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "janestreet": {
+  "pick": "site0.png",
+  "src": "https://www.janestreet.com:443/assets/logo-icon-9e6fdb3acda4d55b6bd69fdbd70de6ee35c1e766594753226b6b144866872951.png",
+  "size": [
+   32,
+   32
+  ],
+  "coverage": 0.627,
+  "light": 0.498,
+  "bg": "light",
+  "issues": [
+   "lowres 32x32"
+  ]
+ },
+ "citadel": {
+  "pick": "gfav.png",
+  "src": "google-s2",
+  "size": [
+   192,
+   192
+  ],
+  "coverage": 0.237,
+  "light": 0.0,
+  "bg": "light",
+  "issues": [
+   "single flat color"
+  ]
+ },
+ "citadelsec": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   192,
+   192
+  ],
+  "coverage": 0.237,
+  "light": 0.0,
+  "bg": "light",
+  "issues": [
+   "single flat color",
+   "duplicate of citadel"
+  ]
+ },
+ "twosigma": {
+  "pick": "site0.png",
+  "src": "https://www.twosigma.com/wp-content/themes/tsmb/assets/public/img/favicon-180x180.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.321,
+  "light": 0.16,
+  "bg": "light",
+  "issues": []
+ },
+ "deshaw": {
+  "pick": "wd_logo0.png",
+  "src": "commons:D. E. Shaw & Co. logo.png",
+  "size": [
+   831,
+   200
+  ],
+  "coverage": 0.034,
+  "light": 0.0,
+  "bg": "light",
+  "issues": [
+   "sparse 0.034"
+  ]
+ },
+ "hrt": {
+  "pick": "gfav.png",
+  "src": "google-s2",
+  "size": [
+   192,
+   192
+  ],
+  "coverage": 1.0,
+  "light": 0.115,
+  "bg": "light",
+  "issues": []
+ },
+ "jumptrading": {
+  "pick": "site0.png",
+  "src": "https://www.jumptrading.com/cdn/68af4da447dcf4db12fcb35f/68af4da447dcf4db12fcb42c_jump-webclip.jpg",
+  "size": [
+   256,
+   256
+  ],
+  "coverage": 0.141,
+  "light": 0.061,
+  "bg": "light",
+  "issues": []
+ },
+ "renaissance": {
+  "pick": "site0.png",
+  "src": "https://www.rentec.com/img/favicon/apple-touch-icon.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.194,
+  "light": 0.011,
+  "bg": "light",
+  "issues": []
+ },
+ "optiver": {
+  "pick": "site0.png",
+  "src": "https://www.optiver.com/favicon/favicon.png",
+  "size": [
+   192,
+   192
+  ],
+  "coverage": 0.28,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "imc": {
+  "pick": "gfav.png",
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ],
+  "coverage": 0.414,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "sig": {
+  "pick": "gfav.png",
+  "src": "google-s2",
+  "size": [
+   100,
+   100
+  ],
+  "coverage": 1.0,
+  "light": 0.115,
+  "bg": "light",
+  "issues": []
+ },
+ "drw": {
+  "pick": "site0.png",
+  "src": "https://www.drw.com/img/favicon/apple-touch-icon.png?v=3",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.499,
+  "light": 0.147,
+  "bg": "light",
+  "issues": []
+ },
+ "tower": {
+  "pick": "site0.png",
+  "src": "https://tower-research.com/wp-content/uploads/2024/05/favicon-300x300.png",
+  "size": [
+   300,
+   300
+  ],
+  "coverage": 0.627,
+  "light": 0.169,
+  "bg": "light",
+  "issues": []
+ },
+ "virtu": {
+  "pick": "site0.png",
+  "src": "https://virtu-www.s3.amazonaws.com/uploads/2019/02/01192911/cropped-Virtu_Favicon-192x192.png",
+  "size": [
+   192,
+   192
+  ],
+  "coverage": 0.223,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "xtx": {
+  "pick": "site0.png",
+  "src": "https://www.xtxmarkets.com/apple-touch-icon.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.119,
+  "light": 0.031,
+  "bg": "light",
+  "issues": []
+ },
+ "flowtraders": {
+  "pick": "custom.png",
+  "src": "manual:custom.png",
+  "size": [
+   2069,
+   596
+  ],
+  "coverage": 0.029,
+  "light": 0.0,
+  "bg": "light",
+  "issues": [
+   "sparse 0.029"
+  ]
+ },
+ "akuna": {
+  "pick": "site0.png",
+  "src": "https://akunacapital.com/wp-content/themes/akuna/apple-touch-icon.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.999,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "fiverings": {
+  "pick": "site0.png",
+  "src": "https://fiverings.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
+  "size": [
+   120,
+   120
+  ],
+  "coverage": 0.101,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "millennium": {
+  "pick": "site0.png",
+  "src": "https://www.mlp.com/wp-content/uploads/2024/05/cropped-favicon-192x192.png",
+  "size": [
+   192,
+   192
+  ],
+  "coverage": 0.157,
+  "light": 0.0,
+  "bg": "light",
+  "issues": [
+   "single flat color"
+  ]
+ },
+ "point72": {
+  "pick": "site0.png",
+  "src": "https://point72.com/wp-content/uploads/2025/09/cropped-point72-favicon-192x192.png",
+  "size": [
+   192,
+   192
+  ],
+  "coverage": 0.078,
+  "light": 0.0,
+  "bg": "light",
+  "issues": [
+   "single flat color"
+  ]
+ },
+ "bridgewater": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.498,
+  "light": 0.877,
+  "bg": "light",
+  "issues": []
+ },
+ "aqr": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   96,
+   96
+  ],
+  "coverage": 0.128,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "man": {
+  "pick": "wd_logo0.png",
+  "src": "commons:ManGroup logo.svg",
+  "size": [
+   960,
+   721
+  ],
+  "coverage": 0.337,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "balyasny": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   64,
+   64
+  ],
+  "coverage": 0.31,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "gts": {
+  "pick": "wd_logo0.png",
+  "src": "commons:Global Trading Systems.png",
+  "size": [
+   300,
+   77
+  ],
+  "coverage": 0.045,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "radix": {
+  "pick": "custom.png",
+  "src": "manual:custom.png",
+  "size": [
+   200,
+   33
+  ],
+  "coverage": 0.106,
+  "light": 0.056,
+  "bg": "light",
+  "issues": [
+   "lowres 200x33"
+  ]
+ },
+ "headlands": {
+  "pick": "site0.png",
+  "src": "https://headlandstech.com/img/favicons/apple-touch-icon.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.222,
+  "light": 0.02,
+  "bg": "light",
+  "issues": []
+ },
+ "ctc": {
+  "pick": "site0.png",
+  "src": "https://www.chicagotrading.com/wp-content/uploads/2026/09/cropped-CTC_Master_Favicon_2026-09-29_512x512-192x192.png",
+  "size": [
+   192,
+   192
+  ],
+  "coverage": 0.628,
+  "light": 0.202,
+  "bg": "light",
+  "issues": []
+ },
+ "peak6": {
+  "pick": "site0.png",
+  "src": "https://peak6.com/favicon.png",
+  "size": [
+   256,
+   256
+  ],
+  "coverage": 0.286,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "wolverine": {
+  "pick": "custom.png",
+  "src": "manual:custom.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.149,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "squarepoint": {
+  "pick": "custom.png",
+  "src": "manual:custom.png",
+  "size": [
+   820,
+   914
+  ],
+  "coverage": 0.255,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "voleon": {
+  "pick": "site0.png",
+  "src": "https://voleon.com/assets/site-images/favicon.ico",
+  "size": [
+   256,
+   256
+  ],
+  "coverage": 0.122,
+  "light": 0.005,
+  "bg": "light",
+  "issues": []
+ },
+ "pdt": {
+  "pick": "site0.png",
+  "src": "https://pdtpartners.com/wp-content/themes/wordpress/assets/media/favicon_228.png",
+  "size": [
+   228,
+   229
+  ],
+  "coverage": 0.3,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "qube": {
+  "pick": "site0.png",
+  "src": "https://www.qube-rt.com/img/apple-touch-icon-152x152.png",
+  "size": [
+   152,
+   152
+  ],
+  "coverage": 0.341,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "gsa": {
+  "pick": "site0.png",
+  "src": "https://www.gresearch.com/wp-content/themes/g-research/images/favicons/apple-touch-icon.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.635,
+  "light": 0.088,
+  "bg": "light",
+  "issues": []
+ },
+ "goldman": {
+  "pick": "gfav.png",
+  "src": "google-s2",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.251,
+  "light": 0.021,
+  "bg": "light",
+  "issues": []
+ },
+ "jpmorgan": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   152,
+   152
+  ],
+  "coverage": 1.0,
+  "light": 0.047,
+  "bg": "light",
+  "issues": []
+ },
+ "morganstanley": {
+  "pick": "gfav.png",
+  "src": "google-s2",
+  "size": [
+   196,
+   196
+  ],
+  "coverage": 1.0,
+  "light": 0.075,
+  "bg": "light",
+  "issues": []
+ },
+ "blackrock": {
+  "pick": "wd_logo0.png",
+  "src": "commons:BlackRock wordmark.svg",
+  "size": [
+   960,
+   139
+  ],
+  "coverage": 0.047,
+  "light": 0.0,
+  "bg": "light",
+  "issues": [
+   "single flat color"
+  ]
+ },
+ "bloomberg": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   48,
+   48
+  ],
+  "coverage": 0.5,
+  "light": 0.197,
+  "bg": "light",
+  "issues": [
+   "lowres 48x48"
+  ]
+ },
+ "openai": {
+  "pick": "site0.png",
+  "src": "https://openai.com/apple-icon.png?apple-icon.3o0tf8iy4mx7y.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.47,
+  "light": 0.453,
+  "bg": "light",
+  "issues": []
+ },
+ "anthropic": {
+  "pick": "site0.png",
+  "src": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.243,
+  "light": 0.057,
+  "bg": "light",
+  "issues": []
+ },
+ "deepmind": {
+  "pick": "site0.png",
+  "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_2x_96dp.png",
+  "size": [
+   192,
+   192
+  ],
+  "coverage": 0.398,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "xai": {
+  "pick": "site0.png",
+  "src": "https://x.ai/icon.png?icon.2jebtfdg6783w.png?dpl=1f0473552015f8ca18c7e5ee30ac55617d26e8dd",
+  "size": [
+   512,
+   512
+  ],
+  "coverage": 0.138,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "mistral": {
+  "pick": "gfav.png",
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ],
+  "coverage": 0.258,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "cohere": {
+  "pick": "site0.png",
+  "src": "https://cohere.com/apple-touch-icon.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.498,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "perplexity": {
+  "pick": "site0.png",
+  "src": "https://www.perplexity.ai/favicon.png",
+  "size": [
+   192,
+   192
+  ],
+  "coverage": 0.631,
+  "light": 0.187,
+  "bg": "light",
+  "issues": []
+ },
+ "huggingface": {
+  "pick": "gfav.png",
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ],
+  "coverage": 0.467,
+  "light": 0.135,
+  "bg": "light",
+  "issues": []
+ },
+ "scaleai": {
+  "pick": "site0.png",
+  "src": "https://scale.com/static/global/favicon/v3/apple-touch-icon.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.446,
+  "light": 0.01,
+  "bg": "light",
+  "issues": []
+ },
+ "databricks": {
+  "pick": "gfav.png",
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ],
+  "coverage": 0.136,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "characterai": {
+  "pick": "gfav.png",
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ],
+  "coverage": 1.0,
+  "light": 0.142,
+  "bg": "light",
+  "issues": []
+ },
+ "midjourney": {
+  "pick": "gfav.png",
+  "src": "google-s2",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.225,
+  "light": 0.498,
+  "bg": "light",
+  "issues": []
+ },
+ "runway": {
+  "pick": "site0.png",
+  "src": "https://runway.com/icon.png?icon.35ps9bmugbe1e.png",
+  "size": [
+   320,
+   320
+  ],
+  "coverage": 0.566,
+  "light": 0.294,
+  "bg": "light",
+  "issues": []
+ },
+ "stability": {
+  "pick": "wd_logo0.png",
+  "src": "commons:Stability Ai \u2014 wordmark.png",
+  "size": [
+   960,
+   318
+  ],
+  "coverage": 0.212,
+  "light": 0.128,
+  "bg": "light",
+  "issues": []
+ },
+ "elevenlabs": {
+  "pick": "site0.png",
+  "src": "https://elevenlabs.io/apple-icon.png?6592732ab34b1d42",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.268,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "cursor": {
+  "pick": "site0.png",
+  "src": "https://cursor.com/marketing-static/icon-192x192-light.png",
+  "size": [
+   192,
+   192
+  ],
+  "coverage": 0.597,
+  "light": 0.659,
+  "bg": "light",
+  "issues": []
+ },
+ "cognition": {
+  "pick": "site0.png",
+  "src": "https://cognition.com/apple-icon.png?apple-icon.3ldv32hvdcixr.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.284,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "ssi": {
+  "pick": "custom.png",
+  "src": "manual:custom.png",
+  "size": [
+   1144,
+   537
+  ],
+  "coverage": 0.018,
+  "light": 0.026,
+  "bg": "light",
+  "issues": [
+   "sparse 0.018"
+  ]
+ },
+ "thinkingmachines": {
+  "pick": "custom.png",
+  "src": "manual:custom.png",
+  "size": [
+   902,
+   390
+  ],
+  "coverage": 0.06,
+  "light": 0.012,
+  "bg": "light",
+  "issues": []
+ },
+ "figure": {
+  "pick": "site0.png",
+  "src": "https://www.figure.ai/favicon.png",
+  "size": [
+   320,
+   320
+  ],
+  "coverage": 1.0,
+  "light": 0.126,
+  "bg": "light",
+  "issues": []
+ },
+ "harvey": {
+  "pick": "site0.png",
+  "src": "https://www.harvey.ai/icons/brand-favicon.png",
+  "size": [
+   1024,
+   1024
+  ],
+  "coverage": 1.0,
+  "light": 0.16,
+  "bg": "light",
+  "issues": []
+ },
+ "glean": {
+  "pick": "site0.png",
+  "src": "https://cdn.prod.website-files.com/6127a84dfe068e153ef20572/67189bfac8da27b3a70ddd93_256%20x%20256%20Glean%20Favicon.png",
+  "size": [
+   256,
+   256
+  ],
+  "coverage": 0.499,
+  "light": 0.141,
+  "bg": "light",
+  "issues": []
+ },
+ "together": {
+  "pick": "site0.png",
+  "src": "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69a59cff65ed0f267dd2fbe8_touchicon.png",
+  "size": [
+   256,
+   256
+  ],
+  "coverage": 0.385,
+  "light": 0.039,
+  "bg": "light",
+  "issues": []
+ },
+ "groq": {
+  "pick": "site0.png",
+  "src": "https://groq.com/apple-touch-icon.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.632,
+  "light": 0.091,
+  "bg": "light",
+  "issues": []
+ },
+ "cerebras": {
+  "pick": "site0.png",
+  "src": "https://cdn.sanity.io/images/e4qjo92p/production/e7a55ae5ab7e2c4fdfd4e66a51f628d1f2f44207-967x967.png?w=512&h=512&fit=max&auto=format",
+  "size": [
+   512,
+   512
+  ],
+  "coverage": 0.499,
+  "light": 0.666,
+  "bg": "light",
+  "issues": []
+ },
+ "coreweave": {
+  "pick": "site0.png",
+  "src": "https://cdn.prod.website-files.com/62ba1fb86485b6d5029975c4/676dd39272d1e888a56c48ad_logo_coreweave_solo_256x256.png",
+  "size": [
+   256,
+   256
+  ],
+  "coverage": 0.197,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "palantir": {
+  "pick": "wd_icon0.png",
+  "src": "commons:Cib-palantir (CoreUI Icons v1.0.0).svg",
+  "size": [
+   960,
+   960
+  ],
+  "coverage": 0.219,
+  "light": 0.0,
+  "bg": "light",
+  "issues": [
+   "single flat color"
+  ]
+ },
+ "anduril": {
+  "pick": "site0.png",
+  "src": "https://www.anduril.com:443/assets/favicon/apple-touch-icon.xxx1TpF2gg.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.341,
+  "light": 0.466,
+  "bg": "light",
+  "issues": []
+ },
+ "spacex": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   48,
+   48
+  ],
+  "coverage": 1.0,
+  "light": 0.152,
+  "bg": "light",
+  "issues": [
+   "lowres 48x48"
+  ]
+ },
+ "neuralink": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   96,
+   96
+  ],
+  "coverage": 1.0,
+  "light": 0.062,
+  "bg": "light",
+  "issues": []
+ },
+ "waymo": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   256,
+   256
+  ],
+  "coverage": 0.499,
+  "light": 0.819,
+  "bg": "light",
+  "issues": []
+ },
+ "cruise": {
+  "pick": "wd_logo1.png",
+  "src": "commons:Cruise logo.svg",
+  "size": [
+   960,
+   280
+  ],
+  "coverage": 0.058,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "aurora": {
+  "pick": "site0.png",
+  "src": "https://aurora.tech/assets/favicons/apple-touch-icon.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.221,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "zoox": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.616,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "shield": {
+  "pick": "site0.png",
+  "src": "https://shield.ai/wp-content/uploads/2025/03/favicon.png",
+  "size": [
+   512,
+   512
+  ],
+  "coverage": 1.0,
+  "light": 0.098,
+  "bg": "light",
+  "issues": []
+ },
+ "saronic": {
+  "pick": "site0.png",
+  "src": "https://www.saronic.com/icon.png?74e253651fc7b0d2",
+  "size": [
+   64,
+   64
+  ],
+  "coverage": 0.626,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "rippling": {
+  "pick": "site0.png",
+  "src": "https://www.rippling.com/favicons/apple-touch-icon.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 1.0,
+  "light": 0.138,
+  "bg": "light",
+  "issues": []
+ },
+ "notion": {
+  "pick": "site0.png",
+  "src": "https://www.notion.com/front-static/logo-ios.png",
+  "size": [
+   512,
+   512
+  ],
+  "coverage": 0.558,
+  "light": 0.433,
+  "bg": "light",
+  "issues": []
+ },
+ "figma": {
+  "pick": "site0.png",
+  "src": "https://static.figma.com/app/icon/2/icon-256.png",
+  "size": [
+   256,
+   256
+  ],
+  "coverage": 1.0,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "canva": {
+  "pick": "site0.png",
+  "src": "https://static.canva.com/domain-assets/canva/static/images/android-192x192-2.png",
+  "size": [
+   193,
+   192
+  ],
+  "coverage": 0.494,
+  "light": 0.126,
+  "bg": "light",
+  "issues": []
+ },
+ "linear": {
+  "pick": "site0.png",
+  "src": "https://linear.app/static/apple-touch-icon.png?v=2",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 1.0,
+  "light": 0.162,
+  "bg": "light",
+  "issues": []
+ },
+ "vercel": {
+  "pick": "site0.png",
+  "src": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-256x256.png",
+  "size": [
+   256,
+   256
+  ],
+  "coverage": 1.0,
+  "light": 0.115,
+  "bg": "light",
+  "issues": []
+ },
+ "supabase": {
+  "pick": "site0.png",
+  "src": "https://supabase.com/favicon/apple-icon-180x180.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 1.0,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "airtable": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   48,
+   48
+  ],
+  "coverage": 0.312,
+  "light": 0.0,
+  "bg": "light",
+  "issues": [
+   "lowres 48x48"
+  ]
+ },
+ "retool": {
+  "pick": "gfav.png",
+  "src": "google-s2",
+  "size": [
+   128,
+   128
+  ],
+  "coverage": 0.335,
+  "light": 0.006,
+  "bg": "light",
+  "issues": []
+ },
+ "replit": {
+  "pick": "site0.png",
+  "src": "https://replit.com/public/icons/favicon-prompt-192-rebrand.png",
+  "size": [
+   192,
+   192
+  ],
+  "coverage": 0.229,
+  "light": 0.0,
+  "bg": "light",
+  "issues": [
+   "single flat color"
+  ]
+ },
+ "deel": {
+  "pick": "site0.png",
+  "src": "https://www.deel.com/apple-icon.png?d2b410d8d6714d15",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 1.0,
+  "light": 0.303,
+  "bg": "light",
+  "issues": []
+ },
+ "gusto": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   32,
+   32
+  ],
+  "coverage": 1.0,
+  "light": 0.113,
+  "bg": "light",
+  "issues": [
+   "lowres 32x32"
+  ]
+ },
+ "faire": {
+  "pick": "site0.png",
+  "src": "https://www.faire.com/apple-touch-icon.png",
+  "size": [
+   192,
+   192
+  ],
+  "coverage": 1.0,
+  "light": 0.047,
+  "bg": "light",
+  "issues": []
+ },
+ "flexport": {
+  "pick": "site0.png",
+  "src": "https://www.flexport.com/apple-touch-icon.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.411,
+  "light": 0.001,
+  "bg": "light",
+  "issues": []
+ },
+ "benchling": {
+  "pick": "site0.png",
+  "src": "https://www.benchling.com/apple-touch-icon.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.209,
+  "light": 0.028,
+  "bg": "light",
+  "issues": []
+ },
+ "verkada": {
+  "pick": "site0.png",
+  "src": "https://www.verkada.com/apple-icon.png?apple-icon.0ndfu63g65zkm.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.2,
+  "light": 0.007,
+  "bg": "light",
+  "issues": []
+ },
+ "samsara": {
+  "pick": "custom.png",
+  "src": "manual:custom.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.33,
+  "light": 0.0,
+  "bg": "light",
+  "issues": [
+   "single flat color"
+  ]
+ },
+ "grammarly": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   48,
+   48
+  ],
+  "coverage": 0.534,
+  "light": 0.142,
+  "bg": "light",
+  "issues": [
+   "lowres 48x48"
+  ]
+ },
+ "miro": {
+  "pick": "site0.png",
+  "src": "https://framerusercontent.com/images/6FBG66PBxjV2QFaDfIdUi5mi9A.png",
+  "size": [
+   128,
+   128
+  ],
+  "coverage": 0.601,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "zapier": {
+  "pick": "site0.png",
+  "src": "https://zapier.com/favicon.ico",
+  "size": [
+   192,
+   192
+  ],
+  "coverage": 1.0,
+  "light": 0.079,
+  "bg": "light",
+  "issues": []
+ },
+ "asana": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   512,
+   512
+  ],
+  "coverage": 0.283,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "dropbox": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   512,
+   512
+  ],
+  "coverage": 0.253,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "slack": {
+  "pick": "wd_icon0.png",
+  "src": "commons:Slack icon 2019.svg",
+  "size": [
+   960,
+   960
+  ],
+  "coverage": 0.322,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "atlassian": {
+  "pick": "custom.png",
+  "src": "manual:custom.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.296,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "github": {
+  "pick": "wd_icon0.png",
+  "src": "commons:Octicons-mark-github.svg",
+  "size": [
+   960,
+   960
+  ],
+  "coverage": 0.272,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "gitlab": {
+  "pick": "wd_icon0.png",
+  "src": "commons:GitLab icon.svg",
+  "size": [
+   960,
+   925
+  ],
+  "coverage": 0.36,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "snowflake": {
+  "pick": "site0.png",
+  "src": "https://www.snowflake.com/etc.clientlibs/snowflake-site/clientlibs/clientlib-react/resources/apple-touch-icon.png?v=3",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.302,
+  "light": 0.027,
+  "bg": "light",
+  "issues": []
+ },
+ "mongodb": {
+  "pick": "site0.png",
+  "src": "https://www.mongodb.com/favicon.ico",
+  "size": [
+   64,
+   64
+  ],
+  "coverage": 0.5,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "confluent": {
+  "pick": "site0.png",
+  "src": "https://www.confluent.io/icons/apple-touch-icon.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.146,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "hashicorp": {
+  "pick": "gfav.png",
+  "src": "google-s2",
+  "size": [
+   192,
+   192
+  ],
+  "coverage": 0.304,
+  "light": 0.0,
+  "bg": "light",
+  "issues": [
+   "single flat color"
+  ]
+ },
+ "cloudflare": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   512,
+   512
+  ],
+  "coverage": 0.178,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "datadog": {
+  "pick": "site0.png",
+  "src": "https://corp.dd-static.net/img/favicons/apple-touch-icon.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.307,
+  "light": 0.169,
+  "bg": "light",
+  "issues": []
+ },
+ "twilio": {
+  "pick": "site0.png",
+  "src": "https://www.twilio.com/content/dam/twilio-com/core-assets/social/apple-touch-icon.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 1.0,
+  "light": 0.144,
+  "bg": "light",
+  "issues": []
+ },
+ "okta": {
+  "pick": "gfav.png",
+  "src": "google-s2",
+  "size": [
+   48,
+   48
+  ],
+  "coverage": 0.616,
+  "light": 0.101,
+  "bg": "light",
+  "issues": [
+   "lowres 48x48"
+  ]
+ },
+ "crowdstrike": {
+  "pick": "site0.png",
+  "src": "https://www.crowdstrike.com/etc.clientlibs/crowdstrike/clientlibs/crowdstrike-common/resources/favicon.ico",
+  "size": [
+   117,
+   121
+  ],
+  "coverage": 0.09,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "paloalto": {
+  "pick": "site0.png",
+  "src": "https://www.paloaltonetworks.com/etc/clientlibs/pan/img/favicons2020/favicon-194x194.png",
+  "size": [
+   194,
+   194
+  ],
+  "coverage": 0.2,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "wiz": {
+  "pick": "site0.png",
+  "src": "https://www.wiz.io/favicon.png",
+  "size": [
+   128,
+   128
+  ],
+  "coverage": 0.155,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "fastly": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   512,
+   512
+  ],
+  "coverage": 0.306,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "digitalocean": {
+  "pick": "site0.png",
+  "src": "https://www.digitalocean.com/_do-www-marketing/25325f8e/_next/static/media/apple-touch-icon.9537f22a.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.281,
+  "light": 0.0,
+  "bg": "light",
+  "issues": [
+   "single flat color"
+  ]
+ },
+ "redhat": {
+  "pick": "wd_logo0.png",
+  "src": "commons:Red Hat logo.svg",
+  "size": [
+   960,
+   729
+  ],
+  "coverage": 0.32,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "shopify": {
+  "pick": "site0.png",
+  "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/c97c60ca19c64a8b5378d9f9e971f7bd.png",
+  "size": [
+   120,
+   120
+  ],
+  "coverage": 0.392,
+  "light": 0.132,
+  "bg": "light",
+  "issues": []
+ },
+ "ebay": {
+  "pick": "wd_logo0.png",
+  "src": "commons:EBay logo.svg",
+  "size": [
+   960,
+   385
+  ],
+  "coverage": 0.081,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "etsy": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   57,
+   57
+  ],
+  "coverage": 1.0,
+  "light": 0.102,
+  "bg": "light",
+  "issues": [
+   "lowres 57x57"
+  ]
+ },
+ "zoom": {
+  "pick": "wd_logo0.png",
+  "src": "commons:Zoom Communications Logo.svg",
+  "size": [
+   960,
+   216
+  ],
+  "coverage": 0.072,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "hubspot": {
+  "pick": "site0.png",
+  "src": "https://www.hubspot.com/hubfs/HubSpot_Logos/HubSpot-Inversed-Favicon.png",
+  "size": [
+   288,
+   288
+  ],
+  "coverage": 1.0,
+  "light": 0.133,
+  "bg": "light",
+  "issues": []
+ },
+ "intuit": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   192,
+   192
+  ],
+  "coverage": 0.499,
+  "light": 0.112,
+  "bg": "light",
+  "issues": []
+ },
+ "booking": {
+  "pick": "gfav.png",
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ],
+  "coverage": 1.0,
+  "light": 0.18,
+  "bg": "light",
+  "issues": []
+ },
+ "expedia": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   57,
+   57
+  ],
+  "coverage": 0.612,
+  "light": 0.0,
+  "bg": "light",
+  "issues": [
+   "lowres 57x57"
+  ]
+ },
+ "alibaba": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   512,
+   512
+  ],
+  "coverage": 0.084,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "tencent": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 1.0,
+  "light": 0.078,
+  "bg": "light",
+  "issues": []
+ },
+ "baidu": {
+  "pick": "wd_icon0.png",
+  "src": "commons:Cib-baidu (CoreUI Icons v1.0.0).svg",
+  "size": [
+   960,
+   960
+  ],
+  "coverage": 0.344,
+  "light": 0.0,
+  "bg": "light",
+  "issues": [
+   "single flat color"
+  ]
+ },
+ "sea": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   48,
+   48
+  ],
+  "coverage": 0.498,
+  "light": 0.0,
+  "bg": "light",
+  "issues": [
+   "lowres 48x48"
+  ]
+ },
+ "grab": {
+  "pick": "wd_logo0.png",
+  "src": "commons:Grab Logo.svg",
+  "size": [
+   960,
+   341
+  ],
+  "coverage": 0.082,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "nubank": {
+  "pick": "gfav.png",
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ],
+  "coverage": 0.609,
+  "light": 0.124,
+  "bg": "light",
+  "issues": []
+ },
+ "asml": {
+  "pick": "wd_logo0.png",
+  "src": "commons:ASML Holding N.V. logo.svg",
+  "size": [
+   960,
+   271
+  ],
+  "coverage": 0.096,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "dell": {
+  "pick": "custom.png",
+  "src": "manual:custom.png",
+  "size": [
+   960,
+   960
+  ],
+  "coverage": 0.149,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "hp": {
+  "pick": "wd_logo0.png",
+  "src": "commons:HP logo 2025.svg",
+  "size": [
+   960,
+   959
+  ],
+  "coverage": 0.337,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "jetbrains": {
+  "pick": "site0.png",
+  "src": "https://www.jetbrains.com/icon-512.png?r=1234",
+  "size": [
+   512,
+   512
+  ],
+  "coverage": 0.542,
+  "light": 0.018,
+  "bg": "light",
+  "issues": []
+ },
+ "mozilla": {
+  "pick": "site0.png",
+  "src": "https://www.mozilla.org/media/img/favicons/mozilla/favicon-196x196.e143075360ea.png",
+  "size": [
+   196,
+   196
+  ],
+  "coverage": 1.0,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "wikimedia": {
+  "pick": "wd_icon0.png",
+  "src": "commons:Wikimedia-logo black.svg",
+  "size": [
+   960,
+   960
+  ],
+  "coverage": 0.36,
+  "light": 0.0,
+  "bg": "light",
+  "issues": [
+   "single flat color"
+  ]
+ },
+ "activision": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   181,
+   181
+  ],
+  "coverage": 0.192,
+  "light": 0.0,
+  "bg": "light",
+  "issues": [
+   "single flat color"
+  ]
+ },
+ "diffchecker": {
+  "pick": "diffchecker.png",
+  "src": "manual:diffchecker.png",
+  "size": [
+   640,
+   614
+  ],
+  "coverage": 0.547,
+  "light": 0.455,
+  "bg": "light",
+  "issues": []
+ },
+ "arrowstreet": {
+  "pick": "site0.png",
+  "src": "https://www.arrowstreetcapital.com/wp-content/uploads/2025/04/cropped-Favicon_1-192x192.png",
+  "size": [
+   192,
+   192
+  ],
+  "coverage": 0.999,
+  "light": 0.13,
+  "bg": "light",
+  "issues": []
+ },
+ "belvedere": {
+  "pick": "site0.png",
+  "src": "https://images.squarespace-cdn.com/content/v1/64f8a57ab361aa60e6288fab/a36d8ca4-95b8-4649-8f06-2088928b14ca/favicon.ico?format=100w",
+  "size": [
+   100,
+   100
+  ],
+  "coverage": 0.498,
+  "light": 0.141,
+  "bg": "light",
+  "issues": []
+ },
+ "tgs": {
+  "pick": "site0.png",
+  "src": "https://www.tgsmc.com/wp-content/themes/tgsmc/favicons/apple-touch-icon.png?v=1702595102",
+  "size": [
+   180,
+   180
+  ],
+  "coverage": 0.253,
+  "light": 0.146,
+  "bg": "light",
+  "issues": []
+ },
+ "xantium": {
+  "pick": "gfav.png",
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ],
+  "coverage": 1.0,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ },
+ "aquatic": {
+  "pick": "icon.png",
+  "src": "manual:icon.png",
+  "size": [
+   512,
+   512
+  ],
+  "coverage": 0.215,
+  "light": 0.0,
+  "bg": "light",
+  "issues": []
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "site0.png": {
+  "src": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-256x256.png",
+  "size": [
+   256,
+   256
+  ]
+ },
+ "site1.png": {
+  "src": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-180x180.png",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site2.png": {
+  "src": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-152x152.png",
+  "size": [
+   152,
+   152
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   180,
+   180
+  ]
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Red Hat logo.svg",
+  "size": [
+   960,
+   729
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Modified Red Hat 2019 logo without Fedora hat.svg",
+  "size": [
+   960,
+   205
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.redhat.com/favicon.ico",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   48,
+   48
+  ]
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:CrowdStrike logo.svg",
+  "size": [
+   960,
+   178
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.crowdstrike.com/etc.clientlibs/crowdstrike/clientlibs/crowdstrike-common/resources/favicon.ico",
+  "size": [
+   117,
+   121
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   117,
+   121
+  ]
+ }
+}

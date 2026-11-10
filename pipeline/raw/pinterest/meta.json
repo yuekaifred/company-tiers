@@ -1,0 +1,44 @@
+{
+ "wd_icon0.png": {
+  "src": "commons:Pinterest.svg",
+  "size": [
+   960,
+   960
+  ]
+ },
+ "wd_logo0.png": {
+  "src": "commons:Pinterest Logo 3.svg",
+  "size": [
+   960,
+   177
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Pinterest Logo.svg",
+  "size": [
+   960,
+   243
+  ]
+ },
+ "site0.png": {
+  "src": "https://s.pinimg.com/webapp/logo_transparent_144x144-3da7a67b.png",
+  "size": [
+   144,
+   144
+  ]
+ },
+ "site1.png": {
+  "src": "https://s.pinimg.com/webapp/favicon_48x48-7470a30d.png",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   144,
+   144
+  ]
+ }
+}

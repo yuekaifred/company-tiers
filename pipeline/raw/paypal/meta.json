@@ -1,0 +1,30 @@
+{
+ "wd_icon0.png": {
+  "src": "commons:PayPal 2024 (Icon).svg",
+  "size": [
+   960,
+   1157
+  ]
+ },
+ "wd_logo0.png": {
+  "src": "commons:PayPal 2024.svg",
+  "size": [
+   960,
+   323
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Paypal.svg",
+  "size": [
+   960,
+   288
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

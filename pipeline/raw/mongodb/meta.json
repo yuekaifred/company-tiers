@@ -1,0 +1,16 @@
+{
+ "site0.png": {
+  "src": "https://www.mongodb.com/favicon.ico",
+  "size": [
+   64,
+   64
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   64,
+   64
+  ]
+ }
+}

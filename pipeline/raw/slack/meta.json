@@ -1,0 +1,44 @@
+{
+ "wd_icon0.png": {
+  "src": "commons:Slack icon 2019.svg",
+  "size": [
+   960,
+   960
+  ]
+ },
+ "wd_icon1.png": {
+  "src": "commons:Slack Icon.png",
+  "size": [
+   256,
+   256
+  ]
+ },
+ "wd_logo0.png": {
+  "src": "commons:Slack Technologies Logo.svg",
+  "size": [
+   960,
+   245
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Slack CMYK.svg",
+  "size": [
+   960,
+   275
+  ]
+ },
+ "site0.png": {
+  "src": "https://a.slack-edge.com/9cc0056/img/icons/favicon-32.png",
+  "size": [
+   35,
+   34
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   35,
+   34
+  ]
+ }
+}

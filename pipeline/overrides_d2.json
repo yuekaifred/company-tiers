@@ -1,0 +1,44 @@
+{
+ "airtable": {
+  "pick": "icon.png"
+ },
+ "aqr": {
+  "pick": "icon.png"
+ },
+ "balyasny": {
+  "pick": "icon.png"
+ },
+ "brex": {
+  "pick": "icon.png"
+ },
+ "citadelsec": {
+  "pick": "icon.png"
+ },
+ "doordash": {
+  "pick": "icon.png"
+ },
+ "ea": {
+  "pick": "icon.png"
+ },
+ "expedia": {
+  "pick": "icon.png"
+ },
+ "grammarly": {
+  "pick": "icon.png"
+ },
+ "paypal": {
+  "pick": "icon.png"
+ },
+ "robinhood": {
+  "pick": "icon.png"
+ },
+ "sony": {
+  "pick": "icon.png"
+ },
+ "workday": {
+  "pick": "icon.png"
+ },
+ "zoox": {
+  "pick": "icon.png"
+ }
+}

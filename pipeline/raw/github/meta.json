@@ -1,0 +1,44 @@
+{
+ "wd_icon0.png": {
+  "src": "commons:Octicons-mark-github.svg",
+  "size": [
+   960,
+   960
+  ]
+ },
+ "wd_icon1.png": {
+  "src": "commons:Github logo svg.svg",
+  "size": [
+   960,
+   960
+  ]
+ },
+ "wd_logo0.png": {
+  "src": "commons:GitHub logo 2013.svg",
+  "size": [
+   960,
+   274
+  ]
+ },
+ "site0.png": {
+  "src": "https://github.githubassets.com/favicons/favicon.png",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "site1.png": {
+  "src": "https://github.com/fluidicon.png",
+  "size": [
+   512,
+   512
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   32,
+   32
+  ]
+ }
+}

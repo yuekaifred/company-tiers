@@ -1,0 +1,30 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Instacart logo and wordmark.svg",
+  "size": [
+   960,
+   154
+  ]
+ },
+ "site0.png": {
+  "src": "https://d2guulkeunn7d8.cloudfront.net/assets/Icon-60@3x-73f80604373da67ef3fadbc54f4548b1.png",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site1.png": {
+  "src": "https://www.instacart.com/assets/beetstrap/brand/2023/half-carrot@3x-23fee52edc148279c7534cfa295cf5b66b0784f7383e31d067665b9f271f2732.png",
+  "size": [
+   72,
+   72
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   180,
+   180
+  ]
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "wd_icon0.png": {
+  "src": "commons:LinkedIn icon.svg",
+  "size": [
+   960,
+   960
+  ]
+ },
+ "wd_logo0.png": {
+  "src": "commons:LinkedIn 2021.svg",
+  "size": [
+   960,
+   240
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:LinkedIn Logo.svg",
+  "size": [
+   960,
+   263
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   64,
+   64
+  ]
+ }
+}

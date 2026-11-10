@@ -1,0 +1,37 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Intuit logo 2022.svg",
+  "size": [
+   960,
+   194
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.intuit.com/oidam/intuit/ic/en_us/images/01-g/Intuit_FavIcon_192x192.png",
+  "size": [
+   192,
+   192
+  ]
+ },
+ "site1.png": {
+  "src": "https://www.intuit.com/oidam/intuit/ic/en_us/images/01-g/Intuit_FavIcon_180x180.png",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site2.png": {
+  "src": "https://www.intuit.com/oidam/intuit/ic/en_us/images/01-g/Intuit_FavIcon_48x48.png",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   192,
+   192
+  ]
+ }
+}

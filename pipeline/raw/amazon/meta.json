@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Amazon 2024.svg",
+  "size": [
+   960,
+   322
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Amazon logo.svg",
+  "size": [
+   960,
+   290
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   48,
+   48
+  ]
+ }
+}

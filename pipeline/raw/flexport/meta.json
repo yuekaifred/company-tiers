@@ -1,0 +1,30 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Flexport Navy Logo.svg",
+  "size": [
+   960,
+   224
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.flexport.com/apple-touch-icon.png",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site1.png": {
+  "src": "https://www.flexport.com/favicon.ico",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

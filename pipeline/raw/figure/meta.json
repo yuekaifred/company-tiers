@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Figure-ai-logo.svg",
+  "size": [
+   960,
+   960
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.figure.ai/favicon.png",
+  "size": [
+   320,
+   320
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

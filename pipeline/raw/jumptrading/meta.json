@@ -1,0 +1,30 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Jump Trading logo.svg",
+  "size": [
+   960,
+   797
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.jumptrading.com/cdn/68af4da447dcf4db12fcb35f/68af4da447dcf4db12fcb42c_jump-webclip.jpg",
+  "size": [
+   256,
+   256
+  ]
+ },
+ "site1.png": {
+  "src": "https://www.jumptrading.com/cdn/68af4da447dcf4db12fcb35f/68af4da447dcf4db12fcb4c2_favicon-32x32.png",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

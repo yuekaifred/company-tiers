@@ -1,0 +1,37 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:PDT Partners.png",
+  "size": [
+   960,
+   96
+  ]
+ },
+ "site0.png": {
+  "src": "https://pdtpartners.com/wp-content/themes/wordpress/assets/media/favicon_228.png",
+  "size": [
+   228,
+   229
+  ]
+ },
+ "site1.png": {
+  "src": "https://pdtpartners.com/wp-content/themes/wordpress/assets/media/favicon_196.png",
+  "size": [
+   196,
+   197
+  ]
+ },
+ "site2.png": {
+  "src": "https://pdtpartners.com/wp-content/themes/wordpress/assets/media/favicon_192.png",
+  "size": [
+   192,
+   193
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   228,
+   229
+  ]
+ }
+}

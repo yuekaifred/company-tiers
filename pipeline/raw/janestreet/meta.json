@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Jane Street Capital Logo.svg",
+  "size": [
+   960,
+   379
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.janestreet.com:443/assets/logo-icon-9e6fdb3acda4d55b6bd69fdbd70de6ee35c1e766594753226b6b144866872951.png",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   32,
+   32
+  ]
+ }
+}

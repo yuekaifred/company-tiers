@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Cisco logo blue 2016.svg",
+  "size": [
+   960,
+   507
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Cisco logo.svg",
+  "size": [
+   960,
+   507
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   16,
+   16
+  ]
+ }
+}

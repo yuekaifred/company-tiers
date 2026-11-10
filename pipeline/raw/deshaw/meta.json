@@ -1,0 +1,30 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:D. E. Shaw & Co. logo.png",
+  "size": [
+   831,
+   200
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.deshaw.com/inactive-favicon.ico",
+  "size": [
+   16,
+   16
+  ]
+ },
+ "site1.png": {
+  "src": "https://www.deshaw.com/favicon.ico",
+  "size": [
+   16,
+   16
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   16,
+   16
+  ]
+ }
+}

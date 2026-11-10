@@ -1,0 +1,13 @@
+{
+ "radix": {"pick": "custom.png"},
+ "wolverine": {"pick": "custom.png"},
+ "ssi": {"pick": "custom.png"},
+ "samsara": {"pick": "custom.png"},
+ "atlassian": {"pick": "custom.png"},
+ "dell": {"pick": "custom.png"},
+ "thinkingmachines": {"pick": "custom.png"},
+ "crowdstrike": {"pick": "site0.png"},
+ "cruise": {"pick": "wd_logo1.png"},
+ "intuit": {"pick": "wd_logo0.png"},
+ "tencent": {"pick": "wd_logo0.png"}
+}

@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Optiver Logo.svg",
+  "size": [
+   960,
+   263
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.optiver.com/favicon/favicon.png",
+  "size": [
+   192,
+   192
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   192,
+   192
+  ]
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Grab Logo.svg",
+  "size": [
+   960,
+   341
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.grab.com/favicon.ico",
+  "size": [
+   96,
+   96
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   96,
+   96
+  ]
+ }
+}

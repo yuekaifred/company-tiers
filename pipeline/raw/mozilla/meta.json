@@ -1,0 +1,44 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Mozilla 2024 logo.svg",
+  "size": [
+   960,
+   230
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Mozilla dinosaur head logo.png",
+  "size": [
+   960,
+   686
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.mozilla.org/media/img/favicons/mozilla/favicon-196x196.e143075360ea.png",
+  "size": [
+   196,
+   196
+  ]
+ },
+ "site1.png": {
+  "src": "https://www.mozilla.org/media/img/favicons/mozilla/apple-touch-icon.05aa000f6748.png",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site2.png": {
+  "src": "https://www.mozilla.org/media/img/favicons/mozilla/favicon.d0be64e474b1.ico",
+  "size": [
+   64,
+   64
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   196,
+   196
+  ]
+ }
+}

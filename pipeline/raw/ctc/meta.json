@@ -1,0 +1,30 @@
+{
+ "site0.png": {
+  "src": "https://www.chicagotrading.com/wp-content/uploads/2026/09/cropped-CTC_Master_Favicon_2026-09-29_512x512-192x192.png",
+  "size": [
+   192,
+   192
+  ]
+ },
+ "site1.png": {
+  "src": "https://www.chicagotrading.com/wp-content/uploads/2026/09/cropped-CTC_Master_Favicon_2026-09-29_512x512-180x180.png",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site2.png": {
+  "src": "https://www.chicagotrading.com/wp-content/uploads/2026/09/cropped-CTC_Master_Favicon_2026-09-29_512x512-32x32.png",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   192,
+   192
+  ]
+ }
+}

@@ -1,0 +1,208 @@
+id	name	category	domain	wiki
+google	Google	Big Tech	google.com	Google
+apple	Apple	Big Tech	apple.com	Apple Inc.
+microsoft	Microsoft	Big Tech	microsoft.com	Microsoft
+amazon	Amazon	Big Tech	amazon.com	Amazon (company)
+meta	Meta	Big Tech	meta.com	Meta Platforms
+netflix	Netflix	Big Tech	netflix.com	Netflix
+nvidia	NVIDIA	Big Tech	nvidia.com	Nvidia
+tesla	Tesla	Big Tech	tesla.com	Tesla, Inc.
+oracle	Oracle	Enterprise	oracle.com	Oracle Corporation
+ibm	IBM	Enterprise	ibm.com	IBM
+salesforce	Salesforce	Enterprise	salesforce.com	Salesforce
+adobe	Adobe	Enterprise	adobe.com	Adobe Inc.
+intel	Intel	Hardware	intel.com	Intel
+amd	AMD	Hardware	amd.com	AMD
+qualcomm	Qualcomm	Hardware	qualcomm.com	Qualcomm
+broadcom	Broadcom	Hardware	broadcom.com	Broadcom
+arm	Arm	Hardware	arm.com	Arm Holdings
+tsmc	TSMC	Hardware	tsmc.com	TSMC
+samsung	Samsung	Hardware	samsung.com	Samsung
+cisco	Cisco	Enterprise	cisco.com	Cisco
+sap	SAP	Enterprise	sap.com	SAP
+servicenow	ServiceNow	Enterprise	servicenow.com	ServiceNow
+workday	Workday	Enterprise	workday.com	Workday, Inc.
+vmware	VMware	Enterprise	vmware.com	VMware
+uber	Uber	Consumer	uber.com	Uber
+lyft	Lyft	Consumer	lyft.com	Lyft
+airbnb	Airbnb	Consumer	airbnb.com	Airbnb
+doordash	DoorDash	Consumer	doordash.com	DoorDash
+instacart	Instacart	Consumer	instacart.com	Instacart
+spotify	Spotify	Consumer	spotify.com	Spotify
+snap	Snap	Consumer	snap.com	Snap Inc.
+pinterest	Pinterest	Consumer	pinterest.com	Pinterest
+reddit	Reddit	Consumer	reddit.com	Reddit
+x	X	Consumer	x.com	X Corp.
+linkedin	LinkedIn	Consumer	linkedin.com	LinkedIn
+tiktok	TikTok	Consumer	tiktok.com	TikTok
+bytedance	ByteDance	Consumer	bytedance.com	ByteDance
+discord	Discord	Consumer	discord.com	Discord
+duolingo	Duolingo	Consumer	duolingo.com	Duolingo
+roblox	Roblox	Gaming	roblox.com	Roblox Corporation
+epic	Epic Games	Gaming	epicgames.com	Epic Games
+valve	Valve	Gaming	valvesoftware.com	Valve Corporation
+riot	Riot Games	Gaming	riotgames.com	Riot Games
+blizzard	Blizzard	Gaming	blizzard.com	Blizzard Entertainment
+nintendo	Nintendo	Gaming	nintendo.com	Nintendo
+sony	Sony	Hardware	sony.com	Sony
+unity	Unity	Gaming	unity.com	Unity Technologies
+ea	Electronic Arts	Gaming	ea.com	Electronic Arts
+stripe	Stripe	Fintech	stripe.com	Stripe, Inc.
+square	Block	Fintech	block.xyz	Block, Inc.
+paypal	PayPal	Fintech	paypal.com	PayPal
+robinhood	Robinhood	Fintech	robinhood.com	Robinhood Markets
+coinbase	Coinbase	Fintech	coinbase.com	Coinbase
+plaid	Plaid	Fintech	plaid.com	Plaid Inc.
+brex	Brex	Fintech	brex.com	Brex
+ramp	Ramp	Fintech	ramp.com	Ramp (company)
+chime	Chime	Fintech	chime.com	Chime (company)
+affirm	Affirm	Fintech	affirm.com	Affirm Holdings
+revolut	Revolut	Fintech	revolut.com	Revolut
+wise	Wise	Fintech	wise.com	Wise (company)
+klarna	Klarna	Fintech	klarna.com	Klarna
+mercury	Mercury	Fintech	mercury.com	Mercury (company)
+visa	Visa	Fintech	visa.com	Visa Inc.
+mastercard	Mastercard	Fintech	mastercard.com	Mastercard
+janestreet	Jane Street	Quant	janestreet.com	Jane Street Capital
+citadel	Citadel	Quant	citadel.com	Citadel LLC
+citadelsec	Citadel Securities	Quant	citadelsecurities.com	Citadel Securities
+twosigma	Two Sigma	Quant	twosigma.com	Two Sigma
+deshaw	D. E. Shaw	Quant	deshaw.com	D. E. Shaw & Co.
+hrt	Hudson River Trading	Quant	hudsonrivertrading.com	Hudson River Trading
+jumptrading	Jump Trading	Quant	jumptrading.com	Jump Trading
+renaissance	Renaissance Technologies	Quant	rentec.com	Renaissance Technologies
+optiver	Optiver	Quant	optiver.com	Optiver
+imc	IMC Trading	Quant	imc.com	IMC Trading
+sig	Susquehanna (SIG)	Quant	sig.com	Susquehanna International Group
+drw	DRW	Quant	drw.com	DRW Holdings
+tower	Tower Research Capital	Quant	tower-research.com	Tower Research Capital
+virtu	Virtu Financial	Quant	virtu.com	Virtu Financial
+xtx	XTX Markets	Quant	xtxmarkets.com	XTX Markets
+flowtraders	Flow Traders	Quant	flowtraders.com	Flow Traders
+akuna	Akuna Capital	Quant	akunacapital.com	Akuna Capital
+fiverings	Five Rings	Quant	fiverings.com	Five Rings Capital
+millennium	Millennium Management	Quant	mlp.com	Millennium Management
+point72	Point72	Quant	point72.com	Point72 Asset Management
+bridgewater	Bridgewater Associates	Quant	bridgewater.com	Bridgewater Associates
+aqr	AQR Capital	Quant	aqr.com	AQR Capital Management
+man	Man Group	Quant	man.com	Man Group
+balyasny	Balyasny	Quant	bamfunds.com	Balyasny Asset Management
+gts	GTS	Quant	gts.com	GTS (company)
+radix	Radix Trading	Quant	radixtrading.com	Radix Trading
+headlands	Headlands Technologies	Quant	headlandstech.com	Headlands Technologies
+ctc	Chicago Trading Company	Quant	chicagotrading.com	Chicago Trading Company
+peak6	PEAK6	Quant	peak6.com	PEAK6 Investments
+wolverine	Wolverine Trading	Quant	wolve.com	Wolverine Trading
+squarepoint	Squarepoint Capital	Quant	squarepoint-capital.com	Squarepoint Capital
+voleon	Voleon	Quant	voleon.com	The Voleon Group
+pdt	PDT Partners	Quant	pdtpartners.com	PDT Partners
+qube	Qube Research & Technologies	Quant	qube-rt.com	Qube Research & Technologies
+gsa	G-Research	Quant	gresearch.com	G-Research
+goldman	Goldman Sachs	Finance	goldmansachs.com	Goldman Sachs
+jpmorgan	JPMorgan Chase	Finance	jpmorganchase.com	JPMorgan Chase
+morganstanley	Morgan Stanley	Finance	morganstanley.com	Morgan Stanley
+blackrock	BlackRock	Finance	blackrock.com	BlackRock
+bloomberg	Bloomberg	Finance	bloomberg.com	Bloomberg L.P.
+openai	OpenAI	AI	openai.com	OpenAI
+anthropic	Anthropic	AI	anthropic.com	Anthropic
+deepmind	Google DeepMind	AI	deepmind.google	Google DeepMind
+xai	xAI	AI	x.ai	XAI (company)
+mistral	Mistral AI	AI	mistral.ai	Mistral AI
+cohere	Cohere	AI	cohere.com	Cohere
+perplexity	Perplexity	AI	perplexity.ai	Perplexity AI
+huggingface	Hugging Face	AI	huggingface.co	Hugging Face
+scaleai	Scale AI	AI	scale.com	Scale AI
+databricks	Databricks	AI	databricks.com	Databricks
+characterai	Character.AI	AI	character.ai	Character.ai
+midjourney	Midjourney	AI	midjourney.com	Midjourney
+runway	Runway	AI	runwayml.com	Runway (company)
+stability	Stability AI	AI	stability.ai	Stability AI
+elevenlabs	ElevenLabs	AI	elevenlabs.io	ElevenLabs
+cursor	Cursor (Anysphere)	AI	cursor.com	Anysphere
+cognition	Cognition	AI	cognition.ai	Cognition AI
+ssi	Safe Superintelligence	AI	ssi.inc	Safe Superintelligence Inc.
+thinkingmachines	Thinking Machines Lab	AI	thinkingmachines.ai	Thinking Machines Lab
+figure	Figure AI	AI	figure.ai	Figure AI
+harvey	Harvey	AI	harvey.ai	Harvey (software)
+glean	Glean	AI	glean.com	Glean (company)
+together	Together AI	AI	together.ai	Together AI
+groq	Groq	AI	groq.com	Groq
+cerebras	Cerebras	Hardware	cerebras.ai	Cerebras
+coreweave	CoreWeave	Infra	coreweave.com	CoreWeave
+palantir	Palantir	Enterprise	palantir.com	Palantir Technologies
+anduril	Anduril	Defense	anduril.com	Anduril Industries
+spacex	SpaceX	Hardware	spacex.com	SpaceX
+neuralink	Neuralink	Hardware	neuralink.com	Neuralink
+waymo	Waymo	AI	waymo.com	Waymo
+cruise	Cruise	AI	getcruise.com	Cruise (autonomous vehicle)
+aurora	Aurora Innovation	AI	aurora.tech	Aurora Innovation
+zoox	Zoox	AI	zoox.com	Zoox (company)
+shield	Shield AI	Defense	shield.ai	Shield AI
+saronic	Saronic	Defense	saronic.com	Saronic Technologies
+rippling	Rippling	Startup	rippling.com	Rippling (company)
+notion	Notion	Startup	notion.so	Notion (productivity software)
+figma	Figma	Startup	figma.com	Figma
+canva	Canva	Startup	canva.com	Canva
+linear	Linear	Startup	linear.app	Linear (software)
+vercel	Vercel	Infra	vercel.com	Vercel
+supabase	Supabase	Infra	supabase.com	Supabase
+airtable	Airtable	Startup	airtable.com	Airtable
+retool	Retool	Startup	retool.com	Retool
+replit	Replit	Startup	replit.com	Replit
+deel	Deel	Startup	deel.com	Deel (company)
+gusto	Gusto	Startup	gusto.com	Gusto (company)
+faire	Faire	Startup	faire.com	Faire (company)
+flexport	Flexport	Startup	flexport.com	Flexport
+benchling	Benchling	Startup	benchling.com	Benchling
+verkada	Verkada	Startup	verkada.com	Verkada
+samsara	Samsara	Startup	samsara.com	Samsara (company)
+grammarly	Grammarly	Startup	grammarly.com	Grammarly
+miro	Miro	Startup	miro.com	Miro (collaboration platform)
+zapier	Zapier	Startup	zapier.com	Zapier
+asana	Asana	Startup	asana.com	Asana, Inc.
+dropbox	Dropbox	Consumer	dropbox.com	Dropbox
+slack	Slack	Enterprise	slack.com	Slack (software)
+atlassian	Atlassian	Enterprise	atlassian.com	Atlassian
+github	GitHub	Infra	github.com	GitHub
+gitlab	GitLab	Infra	gitlab.com	GitLab
+snowflake	Snowflake	Infra	snowflake.com	Snowflake Inc.
+mongodb	MongoDB	Infra	mongodb.com	MongoDB Inc.
+confluent	Confluent	Infra	confluent.io	Confluent
+hashicorp	HashiCorp	Infra	hashicorp.com	HashiCorp
+cloudflare	Cloudflare	Infra	cloudflare.com	Cloudflare
+datadog	Datadog	Infra	datadoghq.com	Datadog
+twilio	Twilio	Infra	twilio.com	Twilio
+okta	Okta	Infra	okta.com	Okta, Inc.
+crowdstrike	CrowdStrike	Security	crowdstrike.com	CrowdStrike
+paloalto	Palo Alto Networks	Security	paloaltonetworks.com	Palo Alto Networks
+wiz	Wiz	Security	wiz.io	Wiz, Inc.
+fastly	Fastly	Infra	fastly.com	Fastly
+digitalocean	DigitalOcean	Infra	digitalocean.com	DigitalOcean
+redhat	Red Hat	Enterprise	redhat.com	Red Hat
+shopify	Shopify	Consumer	shopify.com	Shopify
+ebay	eBay	Consumer	ebay.com	EBay
+etsy	Etsy	Consumer	etsy.com	Etsy
+zoom	Zoom	Enterprise	zoom.us	Zoom Communications
+hubspot	HubSpot	Enterprise	hubspot.com	HubSpot
+intuit	Intuit	Fintech	intuit.com	Intuit
+booking	Booking.com	Consumer	booking.com	Booking.com
+expedia	Expedia	Consumer	expedia.com	Expedia Group
+alibaba	Alibaba	Big Tech	alibaba.com	Alibaba Group
+tencent	Tencent	Big Tech	tencent.com	Tencent
+baidu	Baidu	Big Tech	baidu.com	Baidu
+sea	Sea Limited	Consumer	sea.com	Sea Ltd
+grab	Grab	Consumer	grab.com	Grab Holdings
+nubank	Nubank	Fintech	nubank.com.br	Nubank
+asml	ASML	Hardware	asml.com	ASML Holding
+dell	Dell	Hardware	dell.com	Dell Technologies
+hp	HP	Hardware	hp.com	HP Inc.
+jetbrains	JetBrains	Infra	jetbrains.com	JetBrains
+mozilla	Mozilla	Infra	mozilla.org	Mozilla
+wikimedia	Wikimedia Foundation	Nonprofit	wikimedia.org	Wikimedia Foundation
+activision	Activision	Gaming	activision.com	Activision
+diffchecker	Diffchecker	Startup	diffchecker.com	Diffchecker
+arrowstreet	Arrowstreet Capital	Quant	arrowstreetcapital.com	Arrowstreet Capital
+belvedere	Belvedere Trading	Quant	belvederetrading.com	Belvedere Trading
+tgs	TGS Management	Quant	tgsmc.com	TGS Management
+xantium	Xantium	Quant	xantium.com	Xantium
+aquatic	Aquatic Capital	Quant	aquatic.com	Aquatic Capital Management

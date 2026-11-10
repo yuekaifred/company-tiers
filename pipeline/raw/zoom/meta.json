@@ -1,0 +1,30 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Zoom Communications Logo.svg",
+  "size": [
+   960,
+   216
+  ]
+ },
+ "site0.png": {
+  "src": "https://st1.zoom.us/homepage/20261105-2009/primary/favicon.ico",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "site1.png": {
+  "src": "https://st1.zoom.us/homepage/20261105-2009/primary/dist/assets/images/zoom.ico",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   32,
+   32
+  ]
+ }
+}

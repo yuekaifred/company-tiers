@@ -1,0 +1,30 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Qualcomm-Logo.svg",
+  "size": [
+   960,
+   177
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.qualcomm.com/etc.clientlibs/qcomm-martech/clientlibs/clientlib-react/resources/favicon/qualcomm/favicon.png",
+  "size": [
+   16,
+   16
+  ]
+ },
+ "site1.png": {
+  "src": "https://www.qualcomm.com/etc.clientlibs/qcomm-martech/clientlibs/clientlib-react/resources/favicon/qualcomm/favicon.ico",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   32,
+   32
+  ]
+ }
+}

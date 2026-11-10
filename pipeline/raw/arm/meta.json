@@ -1,0 +1,37 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Arm logo 2025.svg",
+  "size": [
+   960,
+   293
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.arm.com/shared/common/img/favicon/android-chrome-256x256.png?v=1.0.9749.18501",
+  "size": [
+   256,
+   256
+  ]
+ },
+ "site1.png": {
+  "src": "https://www.arm.com/shared/common/img/favicon/android-chrome-192x192.png?v=1.0.9749.18501",
+  "size": [
+   192,
+   192
+  ]
+ },
+ "site2.png": {
+  "src": "https://www.arm.com/shared/common/img/favicon/apple-touch-icon.png?v=1.0.9749.18501",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

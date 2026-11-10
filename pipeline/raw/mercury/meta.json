@@ -1,0 +1,23 @@
+{
+ "site0.png": {
+  "src": "https://mercury.com/apple-icon.png?apple-icon.24duaeqfro1-o.png",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site1.png": {
+  "src": "https://mercury.com/favicon.ico?favicon.1pow-hhy_09nv.ico",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

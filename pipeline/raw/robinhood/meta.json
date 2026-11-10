@@ -1,0 +1,44 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Robinhood (company) logo.svg",
+  "size": [
+   960,
+   189
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Robinhood Logotype green.png",
+  "size": [
+   287,
+   72
+  ]
+ },
+ "site0.png": {
+  "src": "https://robinhood.com/us/en/rh_favicon_60.png?v=2024",
+  "size": [
+   60,
+   60
+  ]
+ },
+ "site1.png": {
+  "src": "https://robinhood.com/us/en/rh_favicon_152.png?v=2024",
+  "size": [
+   152,
+   152
+  ]
+ },
+ "site2.png": {
+  "src": "https://robinhood.com/us/en/rh_favicon_120.png?v=2024",
+  "size": [
+   120,
+   120
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   152,
+   152
+  ]
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "site0.png": {
+  "src": "https://www.drw.com/img/favicon/apple-touch-icon.png?v=3",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site1.png": {
+  "src": "https://www.drw.com/img/favicon/favicon.ico?v=3",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "site2.png": {
+  "src": "https://www.drw.com/img/favicon/favicon-32x32.png?v=3",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   180,
+   180
+  ]
+ }
+}

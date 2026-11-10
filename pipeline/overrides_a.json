@@ -1,0 +1,13 @@
+{
+ "ibm": {"pick": "wd_logo0.png"},
+ "samsung": {"pick": "wd_logo0.png"},
+ "doordash": {"pick": "custom.png"},
+ "ea": {"pick": "custom.png"},
+ "stripe": {"pick": "wd_logo0.png"},
+ "square": {"pick": "wd_logo0.png"},
+ "citadelsec": {"pick": "wd_logo0.png"},
+ "flowtraders": {"pick": "custom.png", "bg": "light"},
+ "bridgewater": {"pick": "custom.png", "bg": "light"},
+ "squarepoint": {"pick": "custom.png"},
+ "hap": {"pick": "custom.png"}
+}

@@ -1,0 +1,37 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Stripe Logo, revised 2016.svg",
+  "size": [
+   960,
+   400
+  ]
+ },
+ "site0.png": {
+  "src": "https://images.stripeassets.com/fzn2n1nzq965/4vVgZi0ZMoEzOhkcv7EVwK/8cce6fdcf2733b2ec8e99548908847ed/favicon.png?w=180&h=180",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site1.png": {
+  "src": "https://images.stripeassets.com/fzn2n1nzq965/4vVgZi0ZMoEzOhkcv7EVwK/8cce6fdcf2733b2ec8e99548908847ed/favicon.png?w=96&h=96",
+  "size": [
+   96,
+   96
+  ]
+ },
+ "site2.png": {
+  "src": "https://assets.stripeassets.com/fzn2n1nzq965/nu0iR4KqmkdJ52fgRts09/c3a10df318e7ffb1f516073daadea625/favicon.ico",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

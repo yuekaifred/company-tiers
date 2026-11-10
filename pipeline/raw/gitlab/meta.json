@@ -1,0 +1,51 @@
+{
+ "wd_icon0.png": {
+  "src": "commons:GitLab icon.svg",
+  "size": [
+   960,
+   925
+  ]
+ },
+ "wd_logo0.png": {
+  "src": "commons:GitLab logo (2).svg",
+  "size": [
+   960,
+   369
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:GitLab logo light-on-dark.svg",
+  "size": [
+   960,
+   369
+  ]
+ },
+ "site0.png": {
+  "src": "https://about.gitlab.com/images/ico/favicon-192x192.png",
+  "size": [
+   192,
+   192
+  ]
+ },
+ "site1.png": {
+  "src": "https://about.gitlab.com/images/ico/favicon-192x192.png",
+  "size": [
+   192,
+   192
+  ]
+ },
+ "site2.png": {
+  "src": "https://about.gitlab.com/images/ico/favicon.ico",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   192,
+   192
+  ]
+ }
+}

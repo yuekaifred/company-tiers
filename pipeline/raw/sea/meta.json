@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Sea Group logo.svg",
+  "size": [
+   960,
+   1353
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.sea.com/favicon.ico",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   48,
+   48
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Anysphere logo 3.svg",
+  "size": [
+   960,
+   275
+  ]
+ },
+ "site0.png": {
+  "src": "https://cursor.com/marketing-static/icon-192x192-light.png",
+  "size": [
+   192,
+   192
+  ]
+ },
+ "site1.png": {
+  "src": "https://cursor.com/marketing-static/apple-touch-icon-light.png",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site2.png": {
+  "src": "https://cursor.com/marketing-static/favicon-light.ico",
+  "size": [
+   256,
+   256
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

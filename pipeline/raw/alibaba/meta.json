@@ -1,0 +1,30 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Alibaba en logo.svg",
+  "size": [
+   960,
+   152
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Alibaba zh logo.svg",
+  "size": [
+   960,
+   197
+  ]
+ },
+ "site0.png": {
+  "src": "https://s.alicdn.com/favicon.ico",
+  "size": [
+   16,
+   16
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   192,
+   192
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:G-Research.png",
+  "size": [
+   600,
+   600
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.gresearch.com/wp-content/themes/g-research/images/favicons/apple-touch-icon.png",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site1.png": {
+  "src": "https://www.gresearch.com/wp-content/themes/g-research/images/favicons/favicon-32x32.png",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "site2.png": {
+  "src": "https://www.gresearch.com/wp-content/themes/g-research/images/favicons/favicon-16x16.png",
+  "size": [
+   16,
+   16
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   180,
+   180
+  ]
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:DigitalOcean logo.svg",
+  "size": [
+   960,
+   960
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.digitalocean.com/_do-www-marketing/25325f8e/_next/static/media/apple-touch-icon.9537f22a.png",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site1.png": {
+  "src": "https://www.digitalocean.com/_do-www-marketing/25325f8e/_next/static/media/favicon.00b9c167.ico",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   180,
+   180
+  ]
+ }
+}

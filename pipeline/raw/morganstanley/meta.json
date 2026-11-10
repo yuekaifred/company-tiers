@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Morgan Stanley Logo 2024.png",
+  "size": [
+   960,
+   138
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Morgan Stanley Logo 1.svg",
+  "size": [
+   960,
+   240
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   196,
+   196
+  ]
+ }
+}

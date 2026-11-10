@@ -1,0 +1,23 @@
+{
+ "site0.png": {
+  "src": "https://images.squarespace-cdn.com/content/v1/64f8a57ab361aa60e6288fab/a36d8ca4-95b8-4649-8f06-2088928b14ca/favicon.ico?format=100w",
+  "size": [
+   100,
+   100
+  ]
+ },
+ "site1.png": {
+  "src": "https://images.squarespace-cdn.com/content/v1/64f8a57ab361aa60e6288fab/3352fcc3-c05d-4dad-8130-c56eeb916df8/favicon.ico?format=100w",
+  "size": [
+   100,
+   100
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   100,
+   100
+  ]
+ }
+}

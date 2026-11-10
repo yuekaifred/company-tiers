@@ -1,0 +1,16 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Booking.com Logo.svg",
+  "size": [
+   960,
+   160
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

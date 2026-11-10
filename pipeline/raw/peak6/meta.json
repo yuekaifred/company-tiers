@@ -1,0 +1,23 @@
+{
+ "site0.png": {
+  "src": "https://peak6.com/favicon.png",
+  "size": [
+   256,
+   256
+  ]
+ },
+ "site1.png": {
+  "src": "https://peak6.com/favicon.ico",
+  "size": [
+   256,
+   256
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

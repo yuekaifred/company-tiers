@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Bloomberg News logo.svg",
+  "size": [
+   960,
+   185
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Bloomberg L.P. logo.svg",
+  "size": [
+   960,
+   195
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   48,
+   48
+  ]
+ }
+}

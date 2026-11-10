@@ -1,0 +1,23 @@
+{
+ "site0.png": {
+  "src": "https://www.samsara.com/favicons/light/favicon.ico",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "site1.png": {
+  "src": "https://www.samsara.com/favicons/dark/favicon.ico",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   48,
+   48
+  ]
+ }
+}

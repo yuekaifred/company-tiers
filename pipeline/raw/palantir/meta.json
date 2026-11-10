@@ -1,0 +1,30 @@
+{
+ "wd_icon0.png": {
+  "src": "commons:Cib-palantir (CoreUI Icons v1.0.0).svg",
+  "size": [
+   960,
+   960
+  ]
+ },
+ "wd_logo0.png": {
+  "src": "commons:Palantir Technologies logo.svg",
+  "size": [
+   960,
+   232
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.palantir.com/favicon.ico",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   32,
+   32
+  ]
+ }
+}

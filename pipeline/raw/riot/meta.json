@@ -1,0 +1,44 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Riot Games 2022 wordmark.svg",
+  "size": [
+   960,
+   427
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Riot Games wordmark.svg",
+  "size": [
+   960,
+   489
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.riotgames.com/assets/img/meta/87021767499a895b42bbe1e6a9edaf27/apple-touch-icon-precomposed-180x180.png",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site1.png": {
+  "src": "https://www.riotgames.com/assets/img/meta/0d691813b2e1b853cd2c03ecfd71229a/apple-touch-icon-precomposed-152x152.png",
+  "size": [
+   152,
+   152
+  ]
+ },
+ "site2.png": {
+  "src": "https://www.riotgames.com/assets/img/meta/7b20d91d4efe0fe40836a7d864fbcda6/apple-touch-icon-precomposed-120x120.png",
+  "size": [
+   120,
+   120
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

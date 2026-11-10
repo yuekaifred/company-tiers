@@ -1,0 +1,44 @@
+{
+ "wd_icon0.png": {
+  "src": "commons:Wikimedia-logo black.svg",
+  "size": [
+   960,
+   960
+  ]
+ },
+ "wd_logo0.png": {
+  "src": "commons:Wikimedia Foundation logo - vertical.svg",
+  "size": [
+   960,
+   718
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Wikimedia Foundation logo - vertical black (2012-2016).svg",
+  "size": [
+   960,
+   768
+  ]
+ },
+ "site0.png": {
+  "src": "https://foundation.wikimedia.org/favicon.ico",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "site1.png": {
+  "src": "https://foundation.wikimedia.org/favicon.ico",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   48,
+   48
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:JetBrains company logo.svg",
+  "size": [
+   960,
+   207
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Cib-jetbrains (CoreUI Icons v1.0.0).svg",
+  "size": [
+   960,
+   960
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.jetbrains.com/icon-512.png?r=1234",
+  "size": [
+   512,
+   512
+  ]
+ },
+ "site1.png": {
+  "src": "https://www.jetbrains.com/apple-touch-icon.png?r=1234",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site2.png": {
+  "src": "https://www.jetbrains.com/favicon.ico?r=1234",
+  "size": [
+   64,
+   64
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   180,
+   180
+  ]
+ }
+}

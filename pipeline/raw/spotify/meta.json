@@ -1,0 +1,51 @@
+{
+ "wd_icon0.png": {
+  "src": "commons:2024 Spotify logo without text.svg",
+  "size": [
+   960,
+   961
+  ]
+ },
+ "wd_logo0.png": {
+  "src": "commons:2024 Spotify Logo.svg",
+  "size": [
+   960,
+   231
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Spotify logo with text.svg",
+  "size": [
+   960,
+   289
+  ]
+ },
+ "site0.png": {
+  "src": "https://open.spotifycdn.com/cdn/images/favicon32.b64ecc03.png",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "site1.png": {
+  "src": "https://open.spotifycdn.com/cdn/images/favicon.0f31d2ea.ico",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "site2.png": {
+  "src": "https://open.spotifycdn.com/cdn/images/favicon16.1c487bff.png",
+  "size": [
+   16,
+   16
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   48,
+   48
+  ]
+ }
+}

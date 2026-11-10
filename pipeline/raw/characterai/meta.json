@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Character.ai 2023 vector logo.svg",
+  "size": [
+   960,
+   133
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Character.ai 2025 vector logo.svg",
+  "size": [
+   960,
+   148
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

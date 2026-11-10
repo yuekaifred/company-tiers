@@ -1,0 +1,30 @@
+{
+ "wd_icon0.png": {
+  "src": "commons:Mastercard 2019 logo.svg",
+  "size": [
+   960,
+   594
+  ]
+ },
+ "wd_logo0.png": {
+  "src": "commons:Mastercard 2019 logo.svg",
+  "size": [
+   960,
+   594
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Mastercard-logo.svg",
+  "size": [
+   960,
+   746
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   180,
+   180
+  ]
+ }
+}

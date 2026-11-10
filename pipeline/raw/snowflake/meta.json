@@ -1,0 +1,37 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Snowflake Logo.svg",
+  "size": [
+   960,
+   230
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.snowflake.com/etc.clientlibs/snowflake-site/clientlibs/clientlib-react/resources/apple-touch-icon.png?v=3",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site1.png": {
+  "src": "https://www.snowflake.com/etc.clientlibs/snowflake-site/clientlibs/clientlib-react/resources/favicon-96x96.png?v=3",
+  "size": [
+   96,
+   96
+  ]
+ },
+ "site2.png": {
+  "src": "https://www.snowflake.com/etc.clientlibs/snowflake-site/clientlibs/clientlib-react/resources/favicon.ico?v=3",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   180,
+   180
+  ]
+ }
+}

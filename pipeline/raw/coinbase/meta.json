@@ -1,0 +1,37 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Coinbase.svg",
+  "size": [
+   960,
+   172
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.coinbase.com/assets/sw-cache/a_CcvONSrV.png",
+  "size": [
+   228,
+   228
+  ]
+ },
+ "site1.png": {
+  "src": "https://www.coinbase.com/assets/sw-cache/a_B4aDYo-G.png",
+  "size": [
+   196,
+   196
+  ]
+ },
+ "site2.png": {
+  "src": "https://www.coinbase.com/assets/sw-cache/a_4fFhElUj.png",
+  "size": [
+   192,
+   192
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   228,
+   228
+  ]
+ }
+}

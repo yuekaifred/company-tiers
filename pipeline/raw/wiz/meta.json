@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Wiz logo.svg",
+  "size": [
+   960,
+   471
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.wiz.io/favicon.png",
+  "size": [
+   128,
+   128
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   128,
+   128
+  ]
+ }
+}

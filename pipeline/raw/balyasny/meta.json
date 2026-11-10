@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Balyasny Asset Management 2025 logo.png",
+  "size": [
+   960,
+   238
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.bamfunds.com:443/favicon.ico",
+  "size": [
+   64,
+   64
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   64,
+   64
+  ]
+ }
+}

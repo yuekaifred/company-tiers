@@ -1,0 +1,30 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:XTX Markets.png",
+  "size": [
+   594,
+   420
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.xtxmarkets.com/apple-touch-icon.png",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site1.png": {
+  "src": "https://www.xtxmarkets.com/favicon.ico",
+  "size": [
+   64,
+   64
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   180,
+   180
+  ]
+ }
+}

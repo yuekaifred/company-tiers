@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Flow Traders logo.svg",
+  "size": [
+   960,
+   49
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.flowtraders.com/Images/FT_favicon.png",
+  "size": [
+   512,
+   512
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

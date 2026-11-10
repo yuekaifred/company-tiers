@@ -1,0 +1,16 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:DoorDash Logo.svg",
+  "size": [
+   960,
+   113
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   32,
+   32
+  ]
+ }
+}

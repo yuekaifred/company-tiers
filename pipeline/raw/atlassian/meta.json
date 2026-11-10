@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Atlassian-logo.svg",
+  "size": [
+   960,
+   120
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Atlassian logo 2011.svg",
+  "size": [
+   960,
+   205
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   48,
+   48
+  ]
+ }
+}

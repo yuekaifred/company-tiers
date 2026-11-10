@@ -1,0 +1,30 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:ElevenLabs Logo 03.svg",
+  "size": [
+   960,
+   125
+  ]
+ },
+ "site0.png": {
+  "src": "https://elevenlabs.io/apple-icon.png?6592732ab34b1d42",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site1.png": {
+  "src": "https://elevenlabs.io/favicon.ico?9c55860cee08706b",
+  "size": [
+   48,
+   48
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

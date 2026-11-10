@@ -1,0 +1,37 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Shopify logo 2018.svg",
+  "size": [
+   960,
+   302
+  ]
+ },
+ "site0.png": {
+  "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/c97c60ca19c64a8b5378d9f9e971f7bd.png",
+  "size": [
+   120,
+   120
+  ]
+ },
+ "site1.png": {
+  "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/c97c60ca19c64a8b5378d9f9e971f7bd.png",
+  "size": [
+   120,
+   120
+  ]
+ },
+ "site2.png": {
+  "src": "https://cdn.shopify.com/b/shopify-brochure2-assets/b13486e5693b246af63c66ab047a6b6b.png",
+  "size": [
+   144,
+   144
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   144,
+   144
+  ]
+ }
+}

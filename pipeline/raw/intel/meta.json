@@ -1,0 +1,30 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Intel logo 2023.svg",
+  "size": [
+   960,
+   373
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Intel logo (1968-2006).svg",
+  "size": [
+   960,
+   487
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.intel.com/sites/sitewide/pix/favicon.ico",
+  "size": [
+   16,
+   16
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   32,
+   32
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Point72logo.png",
+  "size": [
+   300,
+   140
+  ]
+ },
+ "site0.png": {
+  "src": "https://point72.com/wp-content/uploads/2025/09/cropped-point72-favicon-192x192.png",
+  "size": [
+   192,
+   192
+  ]
+ },
+ "site1.png": {
+  "src": "https://point72.com/wp-content/uploads/2025/09/cropped-point72-favicon-180x180.png",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site2.png": {
+  "src": "https://point72.com/wp-content/uploads/2026/03/favicon-light-mode.png",
+  "size": [
+   513,
+   512
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

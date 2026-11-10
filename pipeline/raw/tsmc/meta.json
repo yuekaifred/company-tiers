@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:TSMC wordmark.svg",
+  "size": [
+   960,
+   242
+  ]
+ },
+ "site0.png": {
+  "src": "https://www.tsmc.com/themes/custom/bootstrap_sass/images/favicon.ico",
+  "size": [
+   16,
+   16
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   16,
+   16
+  ]
+ }
+}

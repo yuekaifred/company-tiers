@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Stability Ai \u2014 wordmark.png",
+  "size": [
+   960,
+   318
+  ]
+ },
+ "site0.png": {
+  "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/804f0e8b-0028-4262-a8b0-b9f1c5de72c0/favicon.ico?format=100w",
+  "size": [
+   100,
+   100
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   100,
+   100
+  ]
+ }
+}

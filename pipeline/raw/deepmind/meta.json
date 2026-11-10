@@ -1,0 +1,44 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:DeepMind new logo.svg",
+  "size": [
+   960,
+   223
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:DeepMind logo.png",
+  "size": [
+   756,
+   181
+  ]
+ },
+ "site0.png": {
+  "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_2x_96dp.png",
+  "size": [
+   192,
+   192
+  ]
+ },
+ "site1.png": {
+  "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_alldp.ico",
+  "size": [
+   64,
+   64
+  ]
+ },
+ "site2.png": {
+  "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_32dp.ico",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   192,
+   192
+  ]
+ }
+}

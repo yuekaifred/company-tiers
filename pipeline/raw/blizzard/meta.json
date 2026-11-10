@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Blizzard Entertainment Logo 2015.svg",
+  "size": [
+   960,
+   500
+  ]
+ },
+ "site0.png": {
+  "src": "https://d3ukkjpihy42k4.cloudfront.net/images/favicon.b50a2b7ffcd4631c52d2b61e5d6fec8757e5b81a.ico",
+  "size": [
+   256,
+   256
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "site0.png": {
+  "src": "https://static.canva.com/domain-assets/canva/static/images/android-192x192-2.png",
+  "size": [
+   193,
+   192
+  ]
+ },
+ "site1.png": {
+  "src": "https://static.canva.com/domain-assets/canva/static/images/apple-touch-180x180-1.png",
+  "size": [
+   180,
+   180
+  ]
+ },
+ "site2.png": {
+  "src": "https://static.canva.com/domain-assets/canva/static/images/apple-touch-167x167-1.png",
+  "size": [
+   167,
+   167
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   180,
+   180
+  ]
+ }
+}

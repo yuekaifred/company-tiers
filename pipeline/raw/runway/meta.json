@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Runway Logo.png",
+  "size": [
+   960,
+   188
+  ]
+ },
+ "site0.png": {
+  "src": "https://runway.com/icon.png?icon.35ps9bmugbe1e.png",
+  "size": [
+   320,
+   320
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

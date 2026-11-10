@@ -1,0 +1,23 @@
+{
+ "site0.png": {
+  "src": "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69a59cff65ed0f267dd2fbe8_touchicon.png",
+  "size": [
+   256,
+   256
+  ]
+ },
+ "site1.png": {
+  "src": "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/699e382b218f39bfa0a115d9_favicon.png",
+  "size": [
+   32,
+   32
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

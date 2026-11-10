@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Snap Inc. logo.svg",
+  "size": [
+   960,
+   238
+  ]
+ },
+ "site0.png": {
+  "src": "https://images.ctfassets.net/dwtpq5hdcqjg/5S0EwGbv1lNk3uVF25ocBe/bfddb3bbc878432eabc4a2a8b6282e8e/Snap_Inc_Favicon.png?fm=png",
+  "size": [
+   737,
+   737
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}

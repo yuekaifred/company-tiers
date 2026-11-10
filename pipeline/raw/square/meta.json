@@ -1,0 +1,44 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:Block-lockup black.svg",
+  "size": [
+   960,
+   210
+  ]
+ },
+ "wd_logo1.png": {
+  "src": "commons:Square, Inc. logo.svg",
+  "size": [
+   960,
+   240
+  ]
+ },
+ "site0.png": {
+  "src": "https://block.xyz/apple-touch-icon-reskin.png",
+  "size": [
+   159,
+   160
+  ]
+ },
+ "site1.png": {
+  "src": "https://block.xyz/brand_reskin/favicon/reskin-064p.png",
+  "size": [
+   64,
+   65
+  ]
+ },
+ "site2.png": {
+  "src": "https://block.xyz/brand_reskin/favicon/reskin-064p.png",
+  "size": [
+   64,
+   65
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   159,
+   160
+  ]
+ }
+}

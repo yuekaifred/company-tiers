@@ -1,0 +1,23 @@
+{
+ "wd_logo0.png": {
+  "src": "commons:ByteDance logo English.svg",
+  "size": [
+   960,
+   166
+  ]
+ },
+ "site0.png": {
+  "src": "https://lf3-static.bytednsdoc.com/obj/eden-cn/shjpmmv_ljuhklafi/ljhwZthlaukjlkulzlp/images/Pn04bTfD5oKbB3x1NFLcQ3Bxn1b-20261029135132-20261029150506.png",
+  "size": [
+   300,
+   300
+  ]
+ },
+ "gfav.png": {
+  "src": "google-s2",
+  "size": [
+   256,
+   256
+  ]
+ }
+}
