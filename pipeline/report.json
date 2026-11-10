@@ -2485,14 +2485,14 @@
   ]
  },
  "diffchecker": {
-  "pick": "diffchecker.png",
-  "src": "manual:diffchecker.png",
+  "pick": "diffchecker.jpeg",
+  "src": "manual:diffchecker.jpeg",
   "size": [
-   640,
-   614
+   200,
+   200
   ],
-  "coverage": 0.547,
-  "light": 0.455,
+  "coverage": 0.563,
+  "light": 0.404,
   "bg": "light",
   "issues": []
  },
