@@ -1,7 +1,7 @@
 <script>
   let { company, size = 'var(--tile)', onremove = null } = $props()
   let failed = $state(false)
-  const src = $derived(import.meta.env.BASE_URL + company.logo)
+  const src = $derived(/^(blob|data):/.test(company.logo) ? company.logo : import.meta.env.BASE_URL + company.logo)
 </script>
 
 <div

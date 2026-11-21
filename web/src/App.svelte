@@ -53,10 +53,26 @@
     board = empty()
   }
 
+  function onpaste(e) {
+    if (picking || e.target.closest?.('input, textarea, [contenteditable]')) return
+    const files = [...(e.clipboardData?.files || [])].filter((f) => f.type.startsWith('image/'))
+    if (!files.length) return
+    e.preventDefault()
+    const pasted = files.map((f) => ({
+      id: 'img-' + crypto.randomUUID(),
+      name: f.name && f.name !== 'image.png' ? f.name.replace(/\.[^.]+$/, '') : 'Pasted image',
+      logo: URL.createObjectURL(f),
+      bg: 'light',
+    }))
+    board = { ...board, unranked: [...board.unranked, ...pasted] }
+  }
+
   function openPicker(e) {
     if (!e.target.closest('.item')) picking = true
   }
 </script>
+
+<svelte:window {onpaste} />
 
 <main>
   <header>
@@ -76,7 +92,7 @@
 
   <div class="bottom">
     <section class="tray" onclick={openPicker} role="presentation">
-      <div class="add">+ Add companies</div>
+      <div class="add">+ Add companies or paste image</div>
       <Zone items={board.unranked} onchange={setZone('unranked')} onremove={remove} />
     </section>
 
